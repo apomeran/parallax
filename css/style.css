@@ -1,0 +1,60 @@
+
+
+.titleheader{
+font-family: "Playfair Display SC";
+font-size: 2em;
+line-height: 1.2em;
+text-transform: uppercase;
+text-decoration: none;
+letter-spacing: 2px;
+font-weight: 400;
+font-style: normal;
+margin: 1em 0 .5em;
+color: #16161d;
+-webkit-margin-before: 0.83em;
+-webkit-margin-after: 0.83em;
+
+}
+
+.subtitleheader{
+line-height: 1.2em;
+text-transform: uppercase;
+text-decoration: none;
+letter-spacing: 1px;
+font-weight: 400;
+font-style: normal;
+font-family: "Playfair Display SC";
+margin-top: 0;
+font-size: 12px;
+
+}
+
+.separatorcontent{
+
+font-family: "Courier New", "Courier", "monospace";
+font-size: 14px;
+line-height: 1.6em;
+letter-spacing: 0px;
+font-weight: normal;
+font-style: normal;
+}
+
+.centeredtitle{
+top: 50%;
+left: 50%;
+margin-top: -32.5px;
+margin-left: 0px;
+position: absolute;
+margin: 0 auto;
+max-width: 800px;
+padding: 0;
+font-family: "Playfair Display SC";
+font-size: 18px;
+line-height: 1.6em;
+text-transform: uppercase;
+text-decoration: none;
+letter-spacing: 2px;
+font-weight: 400;
+font-style: normal;
+
+}
