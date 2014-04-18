@@ -1,6 +1,6 @@
 
 
-.titleheader{
+.title-header{
 font-family: "Playfair Display SC";
 font-size: 2em;
 line-height: 1.2em;
@@ -15,8 +15,26 @@ color: #16161d;
 -webkit-margin-after: 0.83em;
 
 }
-
-.subtitleheader{
+.title-nav-wrapper {
+padding: 30px 30px;
+}
+.title-nav-wrapper {
+display: table;
+width: 100%;
+margin: 0 auto;
+padding: 25px 80px;
+vertical-align: middle;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+#desktopNav {
+display: table-cell;
+width: 70%;
+text-align: right;
+vertical-align: middle;
+}
+.subtitle-header{
 line-height: 1.2em;
 text-transform: uppercase;
 text-decoration: none;
@@ -27,10 +45,37 @@ font-family: "Playfair Display SC";
 margin-top: 0;
 font-size: 12px;
 
-/*dada*/
 }
 
-.separatorcontent{
+.title-nav-wrapper ul {
+margin: 0;
+padding: 0;
+list-style: none;
+text-align: right;
+line-height: 1em;
+}
+ul {
+display: block;
+list-style-type: disc;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+}
+.cf:before, .cf:after {
+content: " ";
+display: table;
+}
+.cf:after {
+clear: both;
+}
+.cf:before, .cf:after {
+content: " ";
+display: table;
+}
+
+.separator-content{
 
 font-family: "Courier New", "Courier", "monospace";
 font-size: 14px;
@@ -39,8 +84,31 @@ letter-spacing: 0px;
 font-weight: normal;
 font-style: normal;
 }
-
-.centeredtitle{
+#header {
+background-color: rgba(0, 0, 0, 0);
+width: 100%;
+position: relative;
+z-index: 8001;
+}
+.link-title  a
+{
+color:#fff;
+}
+.link-title  span
+{
+color: rgb(255, 255, 255);
+cursor: auto;
+display: inline;
+font-family: 'Courier New', Courier, monospace;
+font-size: 11px;
+height: auto;
+text-decoration: none;
+letter-spacing: 1px;
+font-weight: normal;
+font-style: normal;
+line-height: 2em;
+}
+.centered-title{
 top: 50%;
 left: 50%;
 margin-top: -32.5px;
@@ -57,5 +125,135 @@ text-decoration: none;
 letter-spacing: 2px;
 font-weight: 400;
 font-style: normal;
+}
+
+.slider-title{
+left: 20%;
+position: absolute;
+max-width: 800px;
+font-family: "Playfair Display SC";
+font-size: 20px;
+line-height: 1.6em;
+text-transform: uppercase;
+text-decoration: none;
+letter-spacing: 2px;
+font-weight: 400;
+font-style: normal;
+}
+
+#slides .slides-container {
+  display: none;
+  
+}
+#slides .scrollable {
+  *zoom: 1;
+  position: relative;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  height: 100%;
+}
+#slides .scrollable:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.slides-navigation {
+  margin: 0 auto;
+  position: absolute;
+  z-index: 3;
+  width: 100%;
+}
+.slides-navigation a {
+  position: absolute;
+  display: block;
+}
+.slides-navigation a.prev {
+  left: 40px;
+  bottom: 40px;
+  opacity: .3;
+  
+
+}
+  .slides-navigation a.prev:hover {
+  	opacity: 1;
+
+  	-webkit-transition:all .3s ease-in;  
+  	-moz-transition:all.3s ease-in;  
+   	-o-transition:all .3s ease-in;  
+   	transition:all .3s ease-in; 
+			
+	-webkit-transition:all .3s ease-out;  
+  	-moz-transition:all.3s ease-out;  
+   	-o-transition:all .3s ease-out;  
+   	transition:all .3s ease-out; 
+}
+.slides-navigation a.next {
+  right: 40px;
+  bottom: 40px;
+  opacity: .3;
+
+}
+.slides-navigation a.next:hover {
+  	opacity: 1;
+
+  	-webkit-transition:all .3s ease-in;  
+  	-moz-transition:all.3s ease-in;  
+   	-o-transition:all .3s ease-in;  
+   	transition:all .3s ease-in; 
+			
+	-webkit-transition:all .3s ease-out;  
+  	-moz-transition:all.3s ease-out;  
+   	-o-transition:all .3s ease-out;  
+   	transition:all .3s ease-out; 
+}
+
+.slides-pagination {
+  position: absolute;
+  z-index: 2;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.slides-pagination a {
+  border: 3px solid #ffffff;
+  border-radius: 1px;
+  width: 40px;
+  height: 4px;
+  display: -moz-inline-stack;
+  opacity: .2;
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+  zoom: 1;
+  *display: inline;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=");
+  margin: 2px;
+  overflow: hidden;
+  text-indent: -100%;
+  margin-bottom: 42.5px;
+}
+.slides-pagination a.current {
+  background: #fff;
+  opacity: 1;
+}
+
+	
+#slides .inner {
+	position: relative;
+	text-align: center;
+	width: 100%;
+	padding-top: 18%;
+}
+.first {
+	position: relative;
+	text-align: center;
+	width: 100%;
+	padding-top: 20%;
+	
+	text-shadow: 0 0 3px rgba(0,0,0,.05), 0 1px 5px rgba(0,0,0,.3);
 
 }
