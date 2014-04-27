@@ -231,7 +231,7 @@ font-style: normal;
 }
 
 .slider-title{
-left: 20%;
+left: 25%;
 position: absolute;
 max-width: 800px;
 font-family: "Playfair Display SC";
@@ -351,6 +351,7 @@ font-style: normal;
 	text-align: center;
 	width: 100%;
 	padding-top: 18%;
+
 }
 .first {
 	position: relative;
