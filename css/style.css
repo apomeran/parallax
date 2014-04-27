@@ -211,6 +211,18 @@ font-weight: normal;
 font-style: normal;
 line-height: 2em;
 }
+
+.cloud{
+ z-index:100 !important;
+ position: absolute;
+}
+.right-cloud{
+ right:0px;
+}
+.left-cloud{
+  margin-top: -80px;
+  left:0px;
+}
 .centered-title{
 top: 50%;
 left: 50%;
