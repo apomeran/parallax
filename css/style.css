@@ -223,6 +223,30 @@ line-height: 2em;
   margin-top: -80px;
   left:0px;
 }
+
+.contact-us{
+width:100%;
+display: block !important;
+background-color: #312B2B;
+
+}
+
+.contact-title{
+text-align:center;
+font-family: "Playfair Display SC";
+font-size: 18px;
+line-height: 1.6em;
+
+}
+
+.contact-form{
+text-align:center;
+font-family: "Playfair Display SC";
+font-size: 18px;
+line-height: 1.6em;
+
+}
+
 .centered-title{
 top: 50%;
 left: 50%;
