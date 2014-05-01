@@ -17,6 +17,10 @@ vertical-align: middle;
 box-sizing: border-box;
 }
 
+.centered-caption-label {
+	width: 70%; 
+	margin: 0px auto;
+}
 #header .site-title {
 color: #fff;
 }

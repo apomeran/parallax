@@ -1,129 +1,48 @@
-<html><head>
-  <link rel="stylesheet" href="css/hw-parallax.min.css">
-  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic|Playfair+Display+SC:400,400italic,700,700italic,900,900italic">
-  <link rel="stylesheet" href="css/style.css">
-
-  <style type="text/css">
-    * {
-      padding: 0;
-      margin: 0;
-    }
-    html,body {
-      height: 100%;
-    }
-    body {
-      font-family: Helvetica, sans-serif;
-      color: #fff;
-    }
-    #bg-section, #tile-section {
-      font-size: 2em;
-      font-weight: bold;
-      text-shadow: 2px 2px rgba(0,0,0, 0.5);
-      box-sizing: border-box;
-      padding: 1em;
-      min-height: 100%;
-    }
-    #separator-section {
-      color: #000;
-      padding: 4em;
-    }
-    p, h2 {
-      text-align: center;
-      margin-bottom: 1em;
-    }
-  </style>
-  <title>Parallax</title>
-</head>
+<html>
+<?php include_once("includes/head.php") ?>
 <body>
-<header id="header">
-        
-</header>
-
-<div class="parallax-block" style="width: 1903px; height: 554px; visibility: hidden; -webkit-transform: translate3d(0px, 918px, 0px);"><div class="parallax-image" style="background-image: url(http://hw-parallax.ziad.cc/img/tile.png); width: 1903px; height: 1903px; -webkit-transform: translate3d(0px, -459px, 0px);"></div></div><div class="parallax-block" style="width: 1903px; height: 554px; visibility: visible; -webkit-transform: translate3d(0px, 0px, 0px);"><img class="parallax-image" style="width: 1903px; height: 1190px; -webkit-transform: translate3d(0px, 0px, 0px);"></div>
-	<div class="logo2">
-	 <img src="img/logo-paradise.png"></img>
-	</div>
-	<div class="logo-title">
-	<div class="title-nav-wrapper">
-			<div id="desktopNav">
-			 <nav class="main-nav">
-				<div class="nav-wrapper">
-					<ul class="cf">
-					<li class="active-link folder">        
-						<a href="/"><span>HOME</span></a>
-					</li>
-					<li>
-					  <a href="./aboutus/"><span>ABOUT US</span></a>
-					</li>
-					<li>
-					  <a href="./reservations/"><span>RESERVATIONS</span></a>
-					</li>
-					<li>
-					  <a href="./travel/"><span>TRAVEL</span></a>
-					</li>
-					<li>
-					  <a href="./lodging/"><span>LODGING</span></a>
-					</li>
-					<li>
-					  <a href="./fishing/"><span>FISHING</span></a>
-					</li>
-					<li>
-					  <a href="http://www.twitter.com/"><img src="img/twitter2.png"></img></a>
-					</li>
-					<li>
-					  <a href="https://www.facebook.com"><img src="img/fblogo2.png"></img></a>
-					</li>
-				</ul>
-				</div>
-			 </nav>
-			</div>
-    	</div>
-        </div>  
-  <div id="slides" style="display:block;">
-	<div class="slides-container">   
+<?php include_once("includes/header.php") ?>
+ <div id="slides" style="display:block;">
+  <div class="slides-container">   
 	<li>
       <img src="img/1.jpg" width="2560" height="1440" alt="Home" >
       
       	<div class="first slider-title">
                	 AN ADVENTURER'S PARADISE <br>
 							JUST A SHORT FLIGHT AWAY
-		
 	  	</div>
       
-      </li>
-      
-      <li>
-	  
-      <img src="img/1.jpg" width="2560" height="1440">
+    </li>
+    <li>
+		  <img src="img/fishing-image.jpg" width="2560" height="1440">
+		  <div class="inner slider-title">
+				 AN ADVENTURER'S PARADISE <br>
+								JUST A SHORT FLIGHT AWAY
+		  </div>
+    </li>
+    <li>
+      <img src="img/lodging-image.jpg" width="2560" height="1440">
       <div class="inner slider-title">
-	  		 AN ADVENTURER'S PARADISE <br>
+	 	 AN ADVENTURER'S PARADISE <br>
 							JUST A SHORT FLIGHT AWAY
 	  </div>
-      </li>
-      
-       <li>
+    </li>
+	<li>
+      <img src="img/reservation-img.jpg" width="2560" height="1440">
+      <div class="inner slider-title">
+	 	 AN ADVENTURER'S PARADISE <br>
+							JUST A SHORT FLIGHT AWAY
+	  </div>
+    </li>
+	<li>
       <img src="img/1.jpg" width="2560" height="1440">
       <div class="inner slider-title">
 	 	 AN ADVENTURER'S PARADISE <br>
 							JUST A SHORT FLIGHT AWAY
 	  </div>
-      </li>
-	   <li>
-      <img src="img/1.jpg" width="2560" height="1440">
-      <div class="inner slider-title">
-	 	 AN ADVENTURER'S PARADISE <br>
-							JUST A SHORT FLIGHT AWAY
-	  </div>
-      </li>
-	  <li>
-      <img src="img/1.jpg" width="2560" height="1440">
-      <div class="inner slider-title">
-	 	 AN ADVENTURER'S PARADISE <br>
-							JUST A SHORT FLIGHT AWAY
-	  </div>
-      </li>
+    </li>
 		
-	  </div>
+  </div>
 
     <nav class="slides-navigation">
       <a href="#" class="next"><img src="img/arrow_right.svg" /></a>
@@ -137,10 +56,7 @@
 	  <a href="#4" class="">4</a>
 	  <a href="#5" class="">5</a>
   </nav>
-	
-  
-     
-  </div>
+</div>
 
 <section id="separator-section">
 	<div class="cloud left-cloud">
@@ -179,7 +95,10 @@
 				</div>
 		 </div>
 </section>
-<section id="bg-section" class="parallax" data-image="img/3.jpg" data-width="2560" data-height="1600">
+<section id="bg-section" class="parallax" data-image="img/reservation-img.jpg" data-width="2560" data-height="1600">
+ 		<div class="centered-caption-label">
+			<img src="img/reservation-caption.png"></img>
+		<div>	
 </section>
 <section id="separator-section">
 <div class="cloud left-cloud">
@@ -219,7 +138,9 @@
 		 </div>
 </section>
 <section id="bg-section" class="parallax" data-image="img/4.jpg" data-width="2560" data-height="1600">
- 
+		<div class="centered-caption-label">
+			FALTA IMAGEN
+		<div>
 </section>
 <section id="separator-section">
 <div class="cloud left-cloud">
@@ -258,7 +179,10 @@
 				</div>
 		 </div>
 </section>
-<section id="bg-section" class="parallax" data-image="img/5.jpg" data-width="2560" data-height="1600">
+<section id="bg-section" class="parallax" data-image="img/lodging-image.jpg" data-width="2560" data-height="1600">
+		<div class="centered-caption-label">
+			<img src="img/logding-caption.png"></img>
+		<div>
 </section>
 <section id="separator-section">
 <div class="cloud left-cloud">
@@ -297,7 +221,10 @@
 				</div>
 		 </div>
 </section>
-<section id="bg-section" class="parallax" data-image="img/6.jpg" data-width="2560" data-height="1600">
+<section id="bg-section" class="parallax" data-image="img/fishing-image.jpg" data-width="2560" data-height="1600">
+	<div class="centered-caption-label">
+			<img src="img/fishing-caption.png"></img>
+		<div>
 </section>
 <section id="separator-section">
 <div class="cloud left-cloud">
@@ -337,16 +264,8 @@ The staff and guides will do everything in their power to provide you with a fis
 				</div>
 		 </div>
 </section>
-<div class="contact-us">
-	<div class="contact-title">
-	  CONTACT US
-	</div>
-	<div class="contact-form">
-	  <form action="" method="POST">
-	    <input type="text" name="contactName" placeholder="Enter your name"> </input>
-	  </form>
-	</div>
-</div>
+<?php include_once("includes/footer.php") ?>
+
 <script src="js/vendors/jquery.min.js"></script>
 <script src="js/hw-parallax.min.js"></script>
 <script src="js/vendors/jquery.superslides.js" type="text/javascript" charset="utf-8"></script>
