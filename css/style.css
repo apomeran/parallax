@@ -17,6 +17,17 @@ vertical-align: middle;
 box-sizing: border-box;
 }
 
+.circles-container {
+margin-top: -100px;
+margin-left: 15%;
+
+}
+
+.round-circle-pic {
+	display: inline-block;
+	margin-left: 5%;
+}
+
 .centered-caption-label {
 	width: 70%; 
 	margin: 0px auto;

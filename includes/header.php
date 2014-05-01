@@ -18,10 +18,10 @@
 				<div class="nav-wrapper">
 					<ul class="cf">
 					<li class="active-link folder">        
-						<a href="/"><span>HOME</span></a>
+						<a href="./index.php"><span>HOME</span></a>
 					</li>
 					<li>
-					  <a href="./aboutus/"><span>ABOUT US</span></a>
+					  <a href="./aboutus.php"><span>ABOUT US</span></a>
 					</li>
 					<li>
 					  <a href="./reservations/"><span>RESERVATIONS</span></a>
