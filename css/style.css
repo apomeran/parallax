@@ -491,8 +491,10 @@ font-style: normal;
   padding-right: 0;
 }
 .sqs-col-12 {
-  margin-left: 12.5% !important;
-  width: 75% !important;
+  margin-top:50px;	
+  margin-left: 20% !important;
+  width: 55% !important;
+  margin-bottom:50px;	
 }
 .sqs-col-12 .sqs-col-12 {
   width: 100%;
