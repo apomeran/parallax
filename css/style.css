@@ -491,7 +491,8 @@ font-style: normal;
   padding-right: 0;
 }
 .sqs-col-12 {
-  width: 100%;
+  margin-left: 12.5% !important;
+  width: 75% !important;
 }
 .sqs-col-12 .sqs-col-12 {
   width: 100%;
