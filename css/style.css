@@ -238,28 +238,200 @@ line-height: 2em;
   margin-top: -80px;
   left:0px;
 }
-
+#footer{
+width: 100%;
+background-color: #323232;
+position: relative;
+}
 .contact-us{
-width:100%;
+color: #fff;
+margin: 0 auto;
+padding: 38px 8%;
 display: block !important;
-background-color: #312B2B;
-
+text-align:center;
+}
+.contact-form-container{
+font-family: "Playfair Display SC";
+font-size: 23px;
+margin: 60px 0 90px 0;
+padding: 20px 0 0 0;
+max-width: 1700px;
+display: inline-block;
+width: 100%;
+}
+.contact-us span
+{
+text-decoration:underline;
+}
+.bp-basics{
+margin-top:50px;
+}
+media="screen"
+@media screen and (max-width: 1440px)
+* {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+element.style {
+color: rgb(137, 137, 137);
+}
+plan.phpmedia="screen"
+@media screen and (max-width: 1440px)
+input {
+width: 42%;
+height: 45px;
+padding: 15px;
+margin-right: 20px;
+margin-bottom: 25px;
+font-weight: 400;
+font-size: 10px;
+letter-spacing: 1px;
+line-height: 10px;
+font-family: "garamond-premier-pro", serif;
+color: #898989;
+text-transform: uppercase;
+border: solid 1px #d7d7d7;
+}
+plan.phpmedia="screen"
+@media screen and (max-width: 1920px)
+input {
+width: 27%;
+height: 45px;
+padding: 15px;
+margin-right: 20px;
+margin-bottom: 25px;
+font-weight: 400;
+font-size: 12px;
+letter-spacing: 1px;
+line-height: 10px;
+font-family: "garamond-premier-pro", serif;
+color: #898989;
+text-transform: uppercase;
+border: solid 1px #d7d7d7;
+}
+plan.phpmedia="screen"
+input {
+width: 30%;
+height: 45px;
+padding: 15px;
+margin-right: 20px;
+margin-bottom: 25px;
+font-weight: 400;
+font-size: 12px;
+letter-spacing: 1px;
+line-height: 10px;
+font-family: "garamond-premier-pro", serif;
+color: #898989;
+text-transform: uppercase;
+border: solid 1px #d7d7d7;
+}
+plan.phpmedia="screen"
+@media screen and (max-width: 1440px)
+* {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+plan.phpmedia="screen"
+* {
+margin: 0;
+padding: 0;
+-webkit-font-smoothing: antialiased;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+user agent stylesheetinput:not([type]), input[type="color"], input[type="email"], input[type="number"], input[type="password"], input[type="tel"], input[type="url"], input[type="text"] {
+padding: 1px 0px;
+}
+user agent stylesheetinput, input[type="password"], input[type="search"], isindex {
+-webkit-appearance: textfield;
+padding: 1px;
+background-color: white;
+border: 2px inset;
+border-image-source: initial;
+border-image-slice: initial;
+border-image-width: initial;
+border-image-outset: initial;
+border-image-repeat: initial;
+-webkit-rtl-ordering: logical;
+-webkit-user-select: text;
+cursor: auto;
+}
+user agent stylesheetinput, textarea, keygen, select, button, isindex {
+margin: 0em;
+font: -webkit-small-control;
+color: initial;
+letter-spacing: normal;
+word-spacing: normal;
+text-transform: none;
+text-indent: 0px;
+text-shadow: none;
+display: inline-block;
+text-align: start;
 }
 
-.contact-title{
-text-align:center;
+plan.phpmedia="screen"
+::selection {
+background: #4d4d4d;
+color: #fff;
+}
+.bp-basics .bp-input {
+width: 27%;
+}
+.bp-input {
+margin: 0 15px 30px 15px;
+padding: 5px !important;
+font-weight: 400;
+font-size: 12px !important;
+letter-spacing: 1px;
+line-height: 10px;
 font-family: "Playfair Display SC";
-font-size: 18px;
-line-height: 1.6em;
-
+color: #898989;
+text-transform: uppercase;
+background: #f3f3f3;
+outline: none;
+border: solid 1px #f3f3f3;
+-webkit-transition: background .4s ease;
+-moz-transition: background .4s ease;
+-o-transition: background .4s ease;
+transition: background .4s ease;
+height:30px;
 }
 
-.contact-form{
-text-align:center;
-font-family: "Playfair Display SC";
-font-size: 18px;
-line-height: 1.6em;
 
+.bp-basics textarea.bp-input {
+width: 87%;
+height: 120px;
+}
+.actions-container
+{
+width: 100%;
+height:120px;
+}
+#send
+{
+margin-right:40px;
+border:1px solid;
+}
+.contact-footer-logo
+{
+height:40px;
+background:url('../img/contact-footer.jpg') no-repeat;
+margin-left:312px;
+}
+#reset
+{
+border:1px solid;
+}
+.actions-container input
+{
+width: 100px;
+height:45px;
+background-color:#323232;
+color:#fff;
+cursor:pointer;
 }
 
 .centered-title{

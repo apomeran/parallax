@@ -264,7 +264,11 @@ The staff and guides will do everything in their power to provide you with a fis
 				</div>
 		 </div>
 </section>
+
+<footer id="footer">
+<!-- <div class="back-to-top-link"><a href="#top"><span class="arrow"></span>Top</a></div> -->
 <?php include_once("includes/footer.php") ?>
+</footer>
 
 <script src="js/vendors/jquery.min.js"></script>
 <script src="js/hw-parallax.min.js"></script>
