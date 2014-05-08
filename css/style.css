@@ -250,6 +250,44 @@ padding: 38px 8%;
 display: block !important;
 text-align:center;
 }
+
+.about-us-container{
+color: #fff;
+margin: 0 auto;
+display: block !important;
+font-family: "Myriad Pro";
+font-size:11px;
+letter-spacing: 3px;
+}
+.row-footer{
+margin-left:45px !important;
+}
+.footer-col{
+margin-right:-80px;
+} 
+.footer-logos{
+margin-bottom:20px;
+}
+.footer-text{
+}
+hr{
+width:10%;
+margin-top:10px !important;
+margin-bottom:10px;
+}
+
+.footer-logos img{
+	margin-right:15px;
+}
+.about-us-title{
+font-size: 14px;
+letter-spacing: 1px !important;
+}
+.about-us-subtitle{
+margin-bottom:2px;
+font-size: 12px;
+font-weight:bold;
+}
 .contact-form-container{
 font-family: "Playfair Display SC";
 font-size: 23px;

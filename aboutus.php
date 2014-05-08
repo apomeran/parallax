@@ -135,5 +135,6 @@
 		</div>
 	</div>	
 </section>
+<footer id="footer">
 <?php include_once("includes/footer-no-homepage.php") ?>
-
+</footer>

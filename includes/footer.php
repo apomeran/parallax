@@ -1,6 +1,5 @@
 <div class="contact-us">
-	<form name="contact-form" id="contact-form" action="" method="post">
-		
+	<form name="contact-form" id="contact-form" action="" method="post">	
 		<div id="contact-form-container">
 			<span>CONTACT</span>
 			<div class="bp-basics">
