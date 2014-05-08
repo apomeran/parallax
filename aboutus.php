@@ -91,7 +91,7 @@
 	<div class="cloud right-cloud">
 		<img src="img/right-cloud2.png"></img>
 	</div>
-		<div class="sqs-layout sqs-grid-12 columns-12">
+		<div class="sqs-layout">
 			  <div class="row sqs-row">
 			  <div class="col sqs-col-12 span-12">
 				  <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">

@@ -257,18 +257,14 @@ margin: 0 auto;
 display: block !important;
 font-family: "Myriad Pro";
 font-size:11px;
-letter-spacing: 3px;
+letter-spacing: 2px;
 }
 .row-footer{
 margin-left:45px !important;
 }
-.footer-col{
-margin-right:-80px;
-} 
+
 .footer-logos{
 margin-bottom:20px;
-}
-.footer-text{
 }
 hr{
 width:10%;
@@ -699,6 +695,17 @@ font-style: normal;
 }
 [class*=sqs-col]:last-child {
   padding-right: 0;
+}
+.sqs-col-14 {
+  margin-top:10px;	
+  width: 90% !important;
+  margin-bottom:10px;	
+}
+.sqs-col-14 .sqs-col-6{
+width: 42.8571%;
+}
+.sqs-col-14 .sqs-col-4{
+width: 28.5714%;
 }
 .sqs-col-12 {
   margin-top:50px;	

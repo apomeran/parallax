@@ -1,9 +1,9 @@
 	<div class="about-us-container">
-		<div class="sqs-layout sqs-grid-12 columns-12">
+		<div class="sqs-layout">
 				<div class="row sqs-row">
-				  <div class="col span-12" style="width:90%">
+				  <div class="col sqs-col-14">
 						<div class="row row-footer">
-						<div class="col sqs-col-6 span-6 footer-col">
+						<div class="col sqs-col-6">
 							<div class="sqs-block html-block sqs-block-html">
 								<div class="sqs-block-content">
 								<div class="footer-logos"><img src="img/twitter2.png"></img><img src="img/fblogo2.png"></img></div>
@@ -11,9 +11,9 @@
 								</div>
 							</div>
 						</div>
-						<div class="col sqs-col-3 span-3">
+						<div class="col sqs-col-4">
 							<div class="sqs-block html-block sqs-block-html">
-								<div class="sqs-block-content footer-text">
+								<div class="sqs-block-content">
 								<hr></hr>
 									<div class="about-us-subtitle">The Fly Shop, Inc.</div>
 									4140 Churn Creek Road<br/>
@@ -22,9 +22,9 @@
 								</div>
 							</div>
 						</div>
-						<div class="col sqs-col-3 span-3">
+						<div class="col sqs-col-4">
 							<div class="sqs-block html-block sqs-block-html">
-								<div class="sqs-block-content footer-text">
+								<div class="sqs-block-content">
 								<hr>
 									<div class="about-us-subtitle">Store Hours:</div>
 									Monday - Friday: 7:30am to 6:00 pm<br/>
