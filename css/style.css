@@ -696,6 +696,15 @@ font-style: normal;
 [class*=sqs-col]:last-child {
   padding-right: 0;
 }
+.sqs-col-16{
+  margin-top:10px;	
+  width: 100% !important;
+  margin-bottom:10px;	
+}
+.sqs-col-16 .sqs-col-8{
+width: 50%;
+}
+
 .sqs-col-14 {
   margin-top:10px;	
   width: 90% !important;
@@ -703,6 +712,9 @@ font-style: normal;
 }
 .sqs-col-14 .sqs-col-6{
 width: 42.8571%;
+}
+.sqs-col-14 .sqs-col-7{
+width: 50%;
 }
 .sqs-col-14 .sqs-col-4{
 width: 28.5714%;
@@ -896,4 +908,24 @@ margin-left: 13px;
 .sqs-block-content p {
 text-align:right;
 font-weight: bold !important;
+}
+
+
+.back-to-top-link a{
+ background:url('../img/top-arrow.png') no-repeat;
+ display: block;
+ margin: 0 auto 4px;
+ z-index: 10;
+width: 100px;
+height: 100px;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+-webkit-border-radius: 50%;
+border-radius: 50%;
+position: absolute;
+left: 50%;
+margin-left: -25px;
+top: -34px;
+padding-top: 2px;
 }

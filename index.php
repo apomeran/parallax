@@ -266,7 +266,7 @@ The staff and guides will do everything in their power to provide you with a fis
 </section>
 
 <footer id="footer">
-<!-- <div class="back-to-top-link"><a href="#top"><span class="arrow"></span>Top</a></div> -->
+<div class="back-to-top-link"><a href="#top"><span class="arrow"></span></a></div> 
 <?php include_once("includes/footer.php") ?>
 </footer>
 

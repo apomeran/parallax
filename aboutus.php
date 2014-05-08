@@ -120,7 +120,6 @@
 				</div>
 				</div>
 		 </div>
-		
 </section>
 <section>
 	<div class="circles-container">
@@ -136,5 +135,6 @@
 	</div>	
 </section>
 <footer id="footer">
+<div class="back-to-top-link"><a href="#top"><span class="arrow"></span></a></div>
 <?php include_once("includes/footer-no-homepage.php") ?>
 </footer>
