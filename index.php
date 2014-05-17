@@ -7,24 +7,21 @@
 	<li>
       <img src="img/1.jpg" width="2560" height="1440" alt="Home" >
       
-      	<div class="first slider-title">
-               	 AN ADVENTURER'S PARADISE <br>
-							JUST A SHORT FLIGHT AWAY
+      	<div class="inner slider-title">
+               	 AN ADVENTURER'S PARADISE<br>JUST A SHORT FLIGHT AWAY
 	  	</div>
       
     </li>
     <li>
 		  <img src="img/fishing-image.jpg" width="2560" height="1440">
 		  <div class="inner slider-title">
-				 AN ADVENTURER'S PARADISE <br>
-								JUST A SHORT FLIGHT AWAY
+				 AN ADVENTURER'S PARADISE <br>JUST A SHORT FLIGHT AWAY
 		  </div>
     </li>
     <li>
       <img src="img/lodging-image.jpg" width="2560" height="1440">
       <div class="inner slider-title">
-	 	 AN ADVENTURER'S PARADISE <br>
-							JUST A SHORT FLIGHT AWAY
+	 	 AN ADVENTURER'S PARADISE <br>JUST A SHORT FLIGHT AWAY
 	  </div>
     </li>
 	<li>
