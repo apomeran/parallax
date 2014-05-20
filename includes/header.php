@@ -30,10 +30,10 @@
 					  <a href="./travel/"><span>TRAVEL</span></a>
 					</li>
 					<li>
-					  <a href="./lodging/"><span>LODGING</span></a>
+					  <a href="./lodge.php"><span>LODGING</span></a>
 					</li>
 					<li>
-					  <a href="./fishing/"><span>FISHING</span></a>
+					  <a href="./fishing.php"><span>FISHING</span></a>
 					</li>
 					<li>
 					  <a href="http://www.twitter.com/"><img src="img/twitter2.png"></img></a>

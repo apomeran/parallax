@@ -713,6 +713,14 @@ width: 42.8571%;
 .sqs-col-14 .sqs-col-7{
 width: 50%;
 }
+.sqs-col-14 .sqs-col-10{
+width: 64.28%;
+}
+.sqs-col-14-margin{
+width: 85%;
+margin-left:20%;
+margin-bottom:40px;
+}
 .sqs-col-14 .sqs-col-4{
 width: 28.5714%;
 }
@@ -896,7 +904,13 @@ font-weight: normal;
 font-style: normal;
 color:#B38845;
 }
-
+.sqs-block-content hr{
+font-size: 14px;
+font-weight: normal;
+font-style: normal;
+color:#B38845;
+margin-left:45%
+}
 .sqs-block-content h1{
 color:#B38845;
 margin-bottom: 18px;
@@ -926,3 +940,27 @@ margin-left: -25px;
 top: -34px;
 padding-top: 2px;
 }
+.lodge-icons {
+left: 83%;
+z-index: 100 !important;
+position: absolute;
+}
+.section-separator
+{
+width:95%;
+margin-bottom: 40px;
+margin-left:7%;
+}
+.section-separator-fishing
+{
+width:95%;
+margin-left:7%;
+}
+.lodge-sect{
+margin-bottom:30px;
+ margin-left:5%;
+ }
+ .text-primary
+ {
+ font-size:18px !important;	
+ }
