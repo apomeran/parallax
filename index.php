@@ -262,9 +262,8 @@
                 </div>
             </div>
         </section>
-
         <footer id="footer">
-            <div class="back-to-top-link">
+            <div class="back-to-top-link" onClick="scroll('#footer', '#slides')">
                 <a href="#top">
                     <span class="arrow">
                     </span>
@@ -272,10 +271,6 @@
             </div> 
             <?php include_once("includes/footer.php") ?>
         </footer>
-
-        <script src="js/vendors/jquery.min.js"></script>
-        <script src="js/hw-parallax.min.js"></script>
-        <script src="js/vendors/jquery.superslides.js" type="text/javascript" charset="utf-8"></script>
         <script>
             $('.parallax').parallax({
                 scroll_factor: 0.5

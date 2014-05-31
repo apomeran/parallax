@@ -1,5 +1,5 @@
 <?php include_once("includes/head.php") ?>
-<div>
+<div id="top-page">
     <?php include_once("includes/header.php") ?>
     <img style="width: 100% !important; "src="img/fishing/top-img.png"></img>
 </div>
@@ -159,6 +159,11 @@
 </section>
 
 <footer id="footer">
-    <div class="back-to-top-link"><a href="#top"><span class="arrow"></span></a></div>
-            <?php include_once("includes/footer-no-homepage.php") ?>
+    <div class="back-to-top-link" onClick="scroll('#footer', '#top-page')">
+		<a href="#top">
+			<span class="arrow">
+			</span>
+		</a>
+	</div>
+    <?php include_once("includes/footer-no-homepage.php") ?>
 </footer>

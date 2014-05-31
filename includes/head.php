@@ -3,6 +3,11 @@
         <link rel="stylesheet" href="css/hw-parallax.min.css">
         <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic|Playfair+Display+SC:400,400italic,700,700italic,900,900italic">
         <link rel="stylesheet" href="css/style.css">
+		<script src="js/main.js"></script> 
+        <script src="js/vendors/jquery.min.js"></script>
+        <script src="js/hw-parallax.min.js"></script>
+        <script src="js/vendors/jquery.superslides.js" type="text/javascript" charset="utf-8"></script>
+
         <style type="text/css">
             * {
                 padding: 0;
