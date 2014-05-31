@@ -1,6 +1,6 @@
 	<div class="about-us-container">
 		<div class="sqs-layout">
-				<div class="row sqs-row">
+				<div class="row sqs-row normalize">
 				  <div class="col sqs-col-14">
 						<div class="row row-footer">
 						<div class="col sqs-col-6">
