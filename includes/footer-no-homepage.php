@@ -1,7 +1,7 @@
 <div class="about-us-container">
     <div class="sqs-layout">
         <div class="row sqs-row normalize">
-            <div class="col sqs-col-14">
+            <div class="col sqs-col-14" style="margin-left: 3% !important;">
                 <div class="row row-footer">
                     <div class="col sqs-col-6">
                         <div class="sqs-block html-block sqs-block-html">
