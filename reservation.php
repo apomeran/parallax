@@ -80,7 +80,12 @@
         </div>
     </div>
 </section>
-
+<div>
+    <img style="width: 100% !important; "src="img/reservations/img-middle-2.jpg"></img>
+</div>
+<div style="right:-5px;">
+    <img style="width: 100% !important; "src="img/reservations/seasons.png"></img>
+</div>
 <footer id="footer">
     <div class="back-to-top-link" onClick="scroll('#footer', '#top-page')">
 
