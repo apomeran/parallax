@@ -8,18 +8,18 @@
 		<div class="sqs-layout">
 			  <div class="row">
 				<div class="col sqs-col-14">
-					  <div class="row">
-									<div class="col sqs-col-14-margin">
-									<div class="sqs-block html-block sqs-block-html">
-										<div class="sqs-block-content">									
-											<hr></hr>
-											<span class="text-primary">
-											IT IS REALLY VERY EASY TO GET TO PARADISE LODGE!</span>
-											<hr></hr>
-										</div>
-									</div>
-									</div>
-						</div>
+				   <div class="row">
+                    <div class="col sqs-col-14-margin normalize-sqs-col-14">
+                        <div class="sqs-block html-block sqs-block-html">
+                            <div class="sqs-block-content">									
+                                <hr></hr>
+                                <span class="text-primary" style="margin-left: 30%">
+                                   IT IS REALLY VERY EASY TO GET TO PARADISE LODGE!</span>
+                                <hr></hr>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 					</div>
 				</div>
 			</div>
