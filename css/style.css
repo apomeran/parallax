@@ -1,4 +1,28 @@
+@font-face {
+    font-family: "PlayFairBold";
+    src: url(../Fonts/PlayfairDisplay-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "PlayFairBoldItalic";
+    src: url(../Fonts/PlayfairDisplay-BoldItalic.ttf) format("truetype");
+}@font-face {
+    font-family: "PlayFairItalic";
+    src: url(../Fonts/PlayfairDisplay-Italic.ttf) format("truetype");
+}@font-face {
+    font-family: "PlayFairRegular";
+    src: url(../Fonts/PlayfairDisplay-Regular.ttf) format("truetype");
+}@font-face {
+    font-family: "CourierNew";
+    src: url(../Fonts/Courier-New.ttf) format("truetype");
+}@font-face {
+    font-family: "CourierNewRegular";
+    src: url(../Fonts/Courier-New-Regular.ttf) format("truetype");
+}
 
+
+.playfair{
+    font-family: PlayFairRegular !important;
+}
 
 #header{
 

@@ -56,7 +56,7 @@
                         <div class="row sqs-row">
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html">
-                                    <div class="sqs-block-content">
+                                    <div class="sqs-block-content" >
                                         <span><li> Non-anglers sharing a room with a single angler may accompany their partners in the boat for one or two days, but limited to non-fishing activities.</span>
                                         <span><li> Two couples (two anglers and two non-anglers sharing one boat and two rooms) - Double occupancy rate for the anglers and $1,195 for each non-angler.</span>
                                     </div>

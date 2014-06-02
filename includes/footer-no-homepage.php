@@ -1,11 +1,11 @@
-<div class="about-us-container">
+<div class="about-us-container ">
     <div class="sqs-layout">
         <div class="row sqs-row normalize">
             <div class="col sqs-col-14" style="margin-left: 3% !important;">
-                <div class="row row-footer">
+                <div class="row row-footer ">
                     <div class="col sqs-col-6">
                         <div class="sqs-block html-block sqs-block-html">
-                            <div class="sqs-block-content">
+                            <div class="sqs-block-content playfair">
                                 <div class="footer-logos">
                                     <img src="img/twitter2.png">
                                     </img>
@@ -18,7 +18,7 @@
                         </div>
                     </div>
                     <div class="col sqs-col-4">
-                        <div class="sqs-block html-block sqs-block-html">
+                        <div class="sqs-block html-block sqs-block-html playfair">
                             <div class="sqs-block-content">
                                 <hr style="margin-left: 0px !important"></hr>
                                 <div class="about-us-subtitle">The Fly Shop, Inc.</div>
@@ -29,10 +29,10 @@
                         </div>
                     </div>
                     <div class="col sqs-col-4">
-                        <div class="sqs-block html-block sqs-block-html">
-                            <div class="sqs-block-content">
+                        <div class="sqs-block html-block sqs-block-html ">
+                            <div class="sqs-block-content ">
                                 <hr style="margin-left: 0px !important">
-                                <div class="about-us-subtitle">Store Hours:</div>
+                                <div class="about-us-subtitle ">Store Hours:</div>
                                 Monday - Friday: 7:30am to 6:00 pm<br/>
                                 Friday (trout season): 7:30am to 9:00pm<br/>
                                 Saturday & Sunday: 7:30am to 6:00 pm

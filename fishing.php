@@ -10,7 +10,7 @@
                 <div class="row">
                     <div class="col sqs-col-14-margin normalize-sqs-col-14">
                         <div class="sqs-block html-block sqs-block-html">
-                            <div class="sqs-block-content">									
+                            <div class="sqs-block-content playfair">									
                                 <hr></hr>
                                 <span class="text-primary">
                                     IF THERE IS ONE WORD TO DESCRIBE THE FISHING AT PARADISE LODGE IT IS VARIETY. AND FOR THAT REASON, 
@@ -25,7 +25,7 @@
                         <div class="row sqs-row">
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
-                                    <div class="sqs-block-content">
+                                    <div class="sqs-block-content playfair">
                                         <h1>FISHING DAY</h1>
                                         <h3><span style="font-size:12px"><b>THE SCHEDULE</b></span></h3>
                                     </div>
@@ -62,7 +62,7 @@
                         <div class="row sqs-row">
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
-                                    <div class="sqs-block-content">
+                                    <div class="sqs-block-content playfair">
                                         <h3><span style="font-size:12px"><b>ESPIRITU SANTO BAY</b></span></h3>
                                     </div>
                                 </div>
@@ -92,7 +92,7 @@
                         <div class="row sqs-row">
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
-                                    <div class="sqs-block-content">
+                                    <div class="sqs-block-content playfair">
                                         <h3><span style="font-size:12px"><b>CHETUMAL BAY</b></span></h3>
                                     </div>
                                 </div>
@@ -122,7 +122,7 @@
                         <div class="row sqs-row">
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
-                                    <div class="sqs-block-content">
+                                    <div class="sqs-block-content playfair">
                                         <h1>EQUIPMENT AND FLIS</h1>
                                         <h3><span style="font-size:12px"><b>THE SCHEDULE</b></span></h3>
                                     </div>
