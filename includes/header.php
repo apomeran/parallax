@@ -15,7 +15,7 @@
                             <a href="./aboutus.php"><span>ABOUT US</span></a>
                         </li>
                         <li>
-                            <a href="./reservations/"><span>RESERVATIONS</span></a>
+                            <a href="./reservation.php"><span>RESERVATIONS</span></a>
                         </li>
                         <li>
                             <a href="./travelling.php"><span>TRAVEL</span></a>
