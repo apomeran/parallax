@@ -18,7 +18,7 @@
                             <a href="./reservations/"><span>RESERVATIONS</span></a>
                         </li>
                         <li>
-                            <a href="./travel/"><span>TRAVEL</span></a>
+                            <a href="./travelling.php"><span>TRAVEL</span></a>
                         </li>
                         <li>
                             <a href="./lodge.php"><span>LODGING</span></a>
