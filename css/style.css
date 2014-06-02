@@ -38,14 +38,15 @@
 }
 
 .circle {
+    margin-right:5%;
 	border-radius: 50%;
 	width:135px;
 	height:135px;
 	font-size:15px;
 	color:#fff;
 	text-align:center;
-	background:#B38845;
-		display: inline-block;
+	background:#B38745;
+	display: inline-block;
 }
 
 .inner-circle-text{
