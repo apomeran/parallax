@@ -66,11 +66,37 @@
                             <div class="col sqs-col-6 span-6">
 							
                                 <div class="sqs-block html-block sqs-block-html">
-								  <span>7 Nights/6 Days</span>
+								
+								
                                     <div class="sqs-block-content">
-                                      
-                                        <p><span href="#" style="font-size:small"><b>Keep Reading ...</b></span></p>
+									<div class="inline-circles">
+										
+											<div class="circle">										
+										  <div class="inner-circle-text">   
+										      SINGLE OCCUPANCY PRIVATE ROOM/BOAT
+											  <hr>
+											  $3,595
+										  </div>  
+										  </div>  
+										  <div class="circle">
+										  <div class="inner-circle-text">   
+										      DOUBLE OCCUPANCY &nbsp;SHARING BOAT&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+											  <hr>
+											  $2,595
+										  </div>
+										</div> 
+										  <div class="circle">										
+
+										  <div class="inner-circle-text">   
+										      NON-ANGLER SHARING ROOM W/ SINGLE ANGLER
+											  <hr>
+											  $1,395
+										  </div>
+										
+										</div>
                                     </div>
+                                </div>
+									
                                 </div>
                             </div>
                         </div>
@@ -83,9 +109,7 @@
 <div>
     <img style="width: 100% !important; "src="img/reservations/img-middle-2.jpg"></img>
 </div>
-<div style="right:-5px;">
-    <img style="width: 100% !important; "src="img/reservations/seasons.png"></img>
-</div>
+
 <footer id="footer">
     <div class="back-to-top-link" onClick="scroll('#footer', '#top-page')">
 

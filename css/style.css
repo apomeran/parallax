@@ -37,6 +37,27 @@
 	width:33%;
 }
 
+.circle {
+	border-radius: 50%;
+	width:135px;
+	height:135px;
+	font-size:15px;
+	color:#fff;
+	text-align:center;
+	background:#B38845;
+		display: inline-block;
+}
+
+.inner-circle-text{
+
+	padding-top:20px;
+}
+
+.inline-circles{
+    padding-left:10px;
+
+}
+
 .centered-caption-label {
     width:100% !important;
 }
