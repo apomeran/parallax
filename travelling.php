@@ -47,9 +47,9 @@
             </div>
         </section>
 	<!-- aca viene la section map 1-->
-	<section id="bg-section" class="parallax" data-image="img/travel/map-1.jpg" data-height="1600">
+	<section id="bg-section" class="parallax" data-image="img/travel/map-1-1.png" data-height="1600">
 		<div class="centered-caption-label">
-			<img class="centered-caption-label" src="img/travel/map-1-1.png"></img>
+			<!--<img class="centered-caption-label" src="img/travel/map-1-1.png"></img>-->
 		<div>	
 	</section>
 	
@@ -78,9 +78,9 @@
             </div>
 	</section>
 	
-	<section id="bg-section" class="parallax" data-image="img/travel/map-2.jpg" data-height="1600">
+	<section id="bg-section" class="parallax" data-image="img/travel/map-2.png" data-height="1600">
 		<div class="centered-caption-label">
-			<img class="centered-caption-label" src="img/travel/map-2.png"></img>
+			<!--<img class="centered-caption-label" src="img/travel/map-2.png"></img>-->
 		<div>	
 	</section>
 	<section id="separator-section">
