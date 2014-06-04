@@ -11,7 +11,7 @@
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content">									
                                 <hr></hr>
-                                <span class="text-primary" style="margin-left: 30%">
+                                <span class="text-primary" style="margin-left: 25%">
                                    IT IS REALLY VERY EASY TO GET TO PARADISE LODGE!</span>
                                 <hr></hr>
                             </div>
