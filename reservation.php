@@ -69,6 +69,9 @@
 
 
                                     <div class="sqs-block-content">
+                                        <div class="fixed-size-square">
+                                            <span>7 Nights/6 Days</span>
+                                        </div>
                                         <div class="inline-circles">
 
                                             <div class="circle">										
