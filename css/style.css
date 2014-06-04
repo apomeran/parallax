@@ -80,7 +80,9 @@
 
 .inline-circles{
     padding-left:10px;
-
+position: absolute;
+left: 50%;
+width: 50%;
 }
 
 .centered-caption-label {

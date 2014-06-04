@@ -62,41 +62,41 @@
                                     </div>
                                 </div>
                             </div>
-							
-                            <div class="col sqs-col-6 span-6">
-							
-                                <div class="sqs-block html-block sqs-block-html">
-								
-								
-                                    <div class="sqs-block-content">
-									<div class="inline-circles">
-										
-											<div class="circle">										
-										  <div class="inner-circle-text">   
-										      SINGLE OCCUPANCY PRIVATE ROOM/BOAT
-											  <hr>
-											  $3,595
-										  </div>  
-										  </div>  
-										  <div class="circle">
-										  <div class="inner-circle-text">   
-										      DOUBLE OCCUPANCY &nbsp;SHARING BOAT&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
-											  <hr>
-											  $2,595
-										  </div>
-										</div> 
-										  <div class="circle">										
 
-										  <div class="inner-circle-text">   
-										      NON-ANGLER SHARING ROOM W/ SINGLE ANGLER
-											  <hr>
-											  $1,395
-										  </div>
-										
-										</div>
+                            <div class="col sqs-col-6 span-6">
+
+                                <div class="sqs-block html-block sqs-block-html">
+
+
+                                    <div class="sqs-block-content">
+                                        <div class="inline-circles">
+
+                                            <div class="circle">										
+                                                <div class="inner-circle-text">   
+                                                    SINGLE OCCUPANCY PRIVATE ROOM/BOAT
+                                                    <hr>
+                                                    $3,595
+                                                </div>  
+                                            </div>  
+                                            <div class="circle">
+                                                <div class="inner-circle-text">   
+                                                    DOUBLE OCCUPANCY &nbsp;SHARING BOAT&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+                                                    <hr>
+                                                    $2,595
+                                                </div>
+                                            </div> 
+                                            <div class="circle">										
+
+                                                <div class="inner-circle-text">   
+                                                    NON-ANGLER SHARING ROOM W/ SINGLE ANGLER
+                                                    <hr>
+                                                    $1,395
+                                                </div>
+
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-									
+
                                 </div>
                             </div>
                         </div>
