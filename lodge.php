@@ -25,7 +25,7 @@
                     <div class="col sqs-col-16 lodge-sect">
                         <div class="row sqs-row">
                             <div class="col sqs-col-8">
-                                <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
+                                <div class="sqs-block html-block sqs-block-html">
                                     <div class="sqs-block-content">
                                         <h1>MAIN STRUCTURE</h1>
                                         <h3><span style="font-size:9px"><b>GREAT VIEWS~ &nbsp; GREAT GATHERING SPACE</b></span></h3>
@@ -61,7 +61,7 @@
                     <div class="col sqs-col-16 lodge-sect">
                         <div class="row sqs-row">
                             <div class="col sqs-col-8">
-                                <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
+                                <div class="sqs-block html-block sqs-block-html">
                                     <div class="sqs-block-content">
                                         <h1>GUEST ROOMS</h1>
                                         <h3><span style="font-size:9px"><b>PRIVATE BATH~ &nbsp; SPACIOUS ACCOMMODATIONS</b></span></h3>
@@ -97,7 +97,7 @@
                     <div class="col sqs-col-16 lodge-sect">
                         <div class="row sqs-row">
                             <div class="col sqs-col-8">
-                                <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
+                                <div class="sqs-block html-block sqs-block-html">
                                     <div class="sqs-block-content">
                                         <h1>CASITA</h1>
                                         <h3><span style="font-size:9px"><b>IDEAL FOR COUPLES~ &nbsp; PRIVATE AND SPACIOUS</b></span></h3>
