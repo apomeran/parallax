@@ -160,10 +160,10 @@
 
 <footer id="footer">
     <div class="back-to-top-link" onClick="scroll('#footer', '#top-page')">
-		<a href="#top">
-			<span class="arrow">
-			</span>
-		</a>
-	</div>
+        <a href="#top">
+            <span class="arrow">
+            </span>
+        </a>
+    </div>
     <?php include_once("includes/footer-no-homepage.php") ?>
 </footer>
