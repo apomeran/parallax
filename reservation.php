@@ -118,149 +118,149 @@
 <div>
     <img style="width: 100% !important; "src="img/reservations/img-middle-2.jpg"></img>
 </div>
- <section id="separator-section">
-     <div class="sqs-layout">
-            <div class="row sqs-row">
-                <div class="col sqs-col-14">
-                    <div class="row">
-                        <div class="col sqs-col-16 lodge-sect">
-                            <div class="row sqs-row">
-                                <div class="col sqs-col-8">
-                                    <div class="sqs-block html-block sqs-block-html"	>
-                                        <div class="sqs-block-content">
-                                            <h1>WINTER</h1>
-                                            <h3><span style="font-size:14px"><b>NOVEMBER, DECEMBER, JANUARY AND FEBRUARY</b></span></h3>
-                                        </div>
+<section id="separator-section">
+    <div class="sqs-layout">
+        <div class="row sqs-row">
+            <div class="col sqs-col-14">
+                <div class="row">
+                    <div class="col sqs-col-16 lodge-sect">
+                        <div class="row sqs-row">
+                            <div class="col sqs-col-8">
+                                <div class="sqs-block html-block sqs-block-html"	>
+                                    <div class="sqs-block-content">
+                                        <h1>WINTER</h1>
+                                        <h3><span style="font-size:14px"><b>NOVEMBER, DECEMBER, JANUARY AND FEBRUARY</b></span></h3>
                                     </div>
                                 </div>
-								<img class="fix-season-img"  src="img/reservations/winter.png"></img>
                             </div>
-                            <div class="row sqs-row">
-                                <div class="col sqs-col-8">
-                                    <div class="sqs-block html-block sqs-block-html">
-                                        <div class="sqs-block-content" >
-										<span>The lodge is closed during this season.</span>
-                                        </div>
+                            <img class="fix-season-img"  src="img/reservations/winter.png"></img>
+                        </div>
+                        <div class="row sqs-row">
+                            <div class="col sqs-col-8">
+                                <div class="sqs-block html-block sqs-block-html">
+                                    <div class="sqs-block-content" >
+                                        <span>The lodge is closed during this season.</span>
                                     </div>
                                 </div>
+                            </div>
 
-                            </div>
-							
-                               
                         </div>
 
-                    </div>
-                </div>
-				<hr class="separator-hr">
-            </div>
-        </div>
-     <div class="sqs-layout">
-            <div class="row sqs-row">
-                <div class="col sqs-col-14">
-                    <div class="row">
-                        <div class="col sqs-col-16 lodge-sect">
-                            <div class="row sqs-row">
-                                <div class="col sqs-col-8">
-                                    <div class="sqs-block html-block sqs-block-html"	>
-                                        <div class="sqs-block-content">
-                                            <h1>SPRING</h1>
-                                            <h3><span style="font-size:14px"><b>MARCH, APRIL AND MAY</b></span></h3>
-                                        </div>
-                                    </div>
-                                </div>
-								<img class="fix-season-img"  src="img/reservations/spring-2.png"></img>
-                            </div>
-                            <div class="row sqs-row">
-                                <div class="col sqs-col-8">
-                                    <div class="sqs-block html-block sqs-block-html">
-                                        <div class="sqs-block-content" >
-										<span>The lodge is closed during this season.</span>
-                                        </div>
-                                    </div>
-                                </div>
 
+                    </div>
+
+                </div>
+            </div>
+            <hr class="separator-hr">
+        </div>
+    </div>
+    <div class="sqs-layout">
+        <div class="row sqs-row">
+            <div class="col sqs-col-14">
+                <div class="row">
+                    <div class="col sqs-col-16 lodge-sect">
+                        <div class="row sqs-row">
+                            <div class="col sqs-col-8">
+                                <div class="sqs-block html-block sqs-block-html"	>
+                                    <div class="sqs-block-content">
+                                        <h1>SPRING</h1>
+                                        <h3><span style="font-size:14px"><b>MARCH, APRIL AND MAY</b></span></h3>
+                                    </div>
+                                </div>
                             </div>
-							
-                               
+                            <img class="fix-season-img"  src="img/reservations/spring-2.png"></img>
+                        </div>
+                        <div class="row sqs-row">
+                            <div class="col sqs-col-8">
+                                <div class="sqs-block html-block sqs-block-html">
+                                    <div class="sqs-block-content" >
+                                        <span>The lodge is closed during this season.</span>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
 
-                    </div>
-                </div>
-				<hr class="separator-hr">
-            </div>
-        </div>
-     <div class="sqs-layout">
-            <div class="row sqs-row">
-                <div class="col sqs-col-14">
-                    <div class="row">
-                        <div class="col sqs-col-16 lodge-sect">
-                            <div class="row sqs-row">
-                                <div class="col sqs-col-8">
-                                    <div class="sqs-block html-block sqs-block-html"	>
-                                        <div class="sqs-block-content">
-                                            <h1>SUMMER</h1>
-                                            <h3><span style="font-size:14px"><b>JUNE, JULY AND AUGUST</b></span></h3>
-                                        </div>
-                                    </div>
-                                </div>
-								<img class="fix-season-img"  src="img/reservations/summer-3.png"></img>
-                            </div>
-                            <div class="row sqs-row">
-                                <div class="col sqs-col-8">
-                                    <div class="sqs-block html-block sqs-block-html">
-                                        <div class="sqs-block-content" >
-										<span>The lodge is closed during this season.</span>
-                                        </div>
-                                    </div>
-                                </div>
 
+                    </div>
+
+                </div>
+            </div>
+            <hr class="separator-hr">
+        </div>
+    </div>
+    <div class="sqs-layout">
+        <div class="row sqs-row">
+            <div class="col sqs-col-14">
+                <div class="row">
+                    <div class="col sqs-col-16 lodge-sect">
+                        <div class="row sqs-row">
+                            <div class="col sqs-col-8">
+                                <div class="sqs-block html-block sqs-block-html"	>
+                                    <div class="sqs-block-content">
+                                        <h1>SUMMER</h1>
+                                        <h3><span style="font-size:14px"><b>JUNE, JULY AND AUGUST</b></span></h3>
+                                    </div>
+                                </div>
                             </div>
-							
-                               
+                            <img class="fix-season-img"  src="img/reservations/summer-3.png"></img>
+                        </div>
+                        <div class="row sqs-row">
+                            <div class="col sqs-col-8">
+                                <div class="sqs-block html-block sqs-block-html">
+                                    <div class="sqs-block-content" >
+                                        <span>The lodge is closed during this season.</span>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
 
-                    </div>
-                </div>
-				<hr class="separator-hr">
-            </div>
-        </div>
-      <div class="sqs-layout">
-            <div class="row sqs-row">
-                <div class="col sqs-col-14">
-                    <div class="row">
-                        <div class="col sqs-col-16 lodge-sect">
-                            <div class="row sqs-row">
-                                <div class="col sqs-col-8">
-                                    <div class="sqs-block html-block sqs-block-html"	>
-                                        <div class="sqs-block-content">
-                                            <h1>FALL</h1>
-                                            <h3><span style="font-size:14px"><b>SEPTEMBER, OCTOBER</b></span></h3>
-                                        </div>
-                                    </div>
-                                </div>
-								<img class="fix-season-img"  src="img/reservations/fall-4.png"></img>
-                            </div>
-                            <div class="row sqs-row">
-                                <div class="col sqs-col-8">
-                                    <div class="sqs-block html-block sqs-block-html">
-                                        <div class="sqs-block-content" >
-										<span>The lodge is closed during this season.</span>
-                                        </div>
-                                    </div>
-                                </div>
 
+                    </div>
+
+                </div>
+            </div>
+            <hr class="separator-hr">
+        </div>
+    </div>
+    <div class="sqs-layout">
+        <div class="row sqs-row">
+            <div class="col sqs-col-14">
+                <div class="row">
+                    <div class="col sqs-col-16 lodge-sect">
+                        <div class="row sqs-row">
+                            <div class="col sqs-col-8">
+                                <div class="sqs-block html-block sqs-block-html"	>
+                                    <div class="sqs-block-content">
+                                        <h1>FALL</h1>
+                                        <h3><span style="font-size:14px"><b>SEPTEMBER, OCTOBER</b></span></h3>
+                                    </div>
+                                </div>
                             </div>
-							
-                               
+                            <img class="fix-season-img"  src="img/reservations/fall-4.png"></img>
+                        </div>
+                        <div class="row sqs-row">
+                            <div class="col sqs-col-8">
+                                <div class="sqs-block html-block sqs-block-html">
+                                    <div class="sqs-block-content" >
+                                        <span>The lodge is closed during this season.</span>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
 
+
                     </div>
+
                 </div>
-				<hr class="separator-hr">
             </div>
+            <hr class="separator-hr">
         </div>
-    </section>
-	<br><br><br>
+    </div>
+</section>
+<br><br><br>
 <footer id="footer">
     <div class="back-to-top-link" onClick="scroll('#footer', '#top-page')">
 
