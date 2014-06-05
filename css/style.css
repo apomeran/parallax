@@ -87,15 +87,29 @@ width: 50%;
 
 .fixed-size-square {
     display: table;
-    width: 150px;
+    width: 200px;
     height: 35px;
     background: #fff;
 	border: solid 1px #C0C0C0;
 	position: absolute;
 	left: 50%;
-	margin-top: -55px !important;
-	margin-left: 12%;
+	margin-top: -73px !important;
+	margin-left: 7%;
 }
+.separator-hr{
+	width: 80% !important;
+	margin-left:10%;
+	border: solid 1px #B38745;
+
+	
+}
+.fix-season-img{
+position: absolute;
+right: 17%;
+margin-top: 2%;
+
+}
+
 .fixed-size-square span {
     display: table-cell;
     text-align: center;
