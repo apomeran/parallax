@@ -33,9 +33,11 @@
         </div>
     </div>
 </div>
-<div>
-    <img style="width: 100% !important; "src="img/reservations/img-middle-1.jpg"></img>
-</div>
+	<section id="bg-section" class="parallax" data-image="img/reservations/r.jpg" data-height="1600">
+		<div class="centered-caption-label">
+		<div>	
+	</section>
+	
 <div>
     <div class="scroll-me" onClick="scroll('#footer', '#top-page')">
         <span class="arrow">
@@ -118,6 +120,7 @@
 <div>
     <img style="width: 100% !important; "src="img/reservations/img-middle-2.jpg"></img>
 </div>
+
 <section id="separator-section">
     <div class="sqs-layout">
         <div class="row sqs-row">
@@ -261,6 +264,11 @@
     </div>
 </section>
 <br><br><br>
+<script>
+	$('.parallax').parallax({
+		scroll_factor: 0.5
+	});
+</script>
 <footer id="footer">
     <div class="back-to-top-link" onClick="scroll('#footer', '#top-page')">
 

@@ -34,7 +34,7 @@
                             </div>
                             <div class="col sqs-col-8">
                                 <div class="lodge-icons">
-                                    <img src="img/lodge/main-structure.png"></img>
+                                    <img class="fright" src="img/lodge/main-structure.png"></img>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +70,7 @@
                             </div>
                             <div class="col sqs-col-8">
                                 <div class="lodge-icons">
-                                    <img src="img/lodge/guest-rooms.png"></img>
+                                    <img class="fright" src="img/lodge/guest-rooms.png"></img>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +106,7 @@
                             </div>
                             <div class="col sqs-col-8">
                                 <div class="lodge-icons">
-                                    <img src="img/lodge/guest-rooms.png"></img>
+                                    <img class="fright" src="img/lodge/guest-rooms.png"></img>
                                 </div>
                             </div>
                         </div>

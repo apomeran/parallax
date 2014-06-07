@@ -49,7 +49,6 @@
 	<!-- aca viene la section map 1-->
 	<section id="bg-section" class="parallax" data-image="img/travel/map-1-1.png" data-height="1600">
 		<div class="centered-caption-label">
-			<!--<img class="centered-caption-label" src="img/travel/map-1-1.png"></img>-->
 		<div>	
 	</section>
 	
