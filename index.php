@@ -145,7 +145,7 @@
         </div>
         <section id="bg-section" class="parallax" data-image="img/4.jpg"  data-height="1600">
             <div class="centered-caption-label">
-                <img class="centered-caption-label" src="img/reservation-caption.png"></img>
+                <img class="centered-caption-label" src="img/travel-caption.png"></img>
             </div>
         </section>
         <div>
