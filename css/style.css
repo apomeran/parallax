@@ -1101,3 +1101,18 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 {
     font-size:18px !important;	
 }
+.travel-title-content
+{
+margin-top:60px;
+}
+
+.travel-title-content hr
+{
+margin-left:50%;
+}
+.sqs-col-12-travel {
+margin-top: 15px;
+margin-left: 10% !important;
+width: 90% !important;
+margin-bottom: 30px;
+}

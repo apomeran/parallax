@@ -9,7 +9,7 @@
 				   <div class="row">
                     <div class="col sqs-col-14-margin normalize-sqs-col-14">
                         <div class="sqs-block html-block sqs-block-html">
-                            <div class="sqs-block-content">									
+                            <div class="sqs-block-content travel-title-content">									
                                 <hr></hr>
                                 <span class="text-primary" style="margin-left: 25%">
                                    IT IS REALLY VERY EASY TO GET TO PARADISE LODGE!</span>
@@ -25,7 +25,7 @@
  <section id="separator-section">
             <div class="sqs-layout sqs-grid-12 columns-12">
                 <div class="row sqs-row">
-                    <div class="col sqs-col-12 span-12">
+                    <div class="col sqs-col-12-travel span-12">
                         <div class="row sqs-row">
                             <div class="col sqs-col-6 span-6">
                                 <div class="sqs-block html-block sqs-block-html">
