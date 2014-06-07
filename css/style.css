@@ -19,9 +19,28 @@
     src: url(../Fonts/Courier-New-Regular.ttf) format("truetype");
 }
 
-
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
 .playfair{
     font-family: PlayFairRegular !important;
+}
+
+.fade-in {
+    opacity:0;  /* make things invisible upon start */
+    -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+    -moz-animation:fadeIn ease-in 1;
+    animation:fadeIn ease-in 1;
+ 
+    -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+ 
+    -webkit-animation-duration:0.5s;
+    -moz-animation-duration:0.5s;
+    animation-duration:0.5s;
+
+
 }
 
 #header{
@@ -184,14 +203,6 @@ margin-top: 2%;
     font-weight: normal;
     font-style: normal;
     line-height: 2em;
-}
-
-.fade-in{
-    -webkit-animation: fadein 4s; /* Safari and Chrome */
-    -moz-animation: fadein 1s; /* Firefox */
-    -ms-animation: fadein 1s; /* Internet Explorer */
-    -o-animation: fadein 1s; /* Opera */
-    animation: fadein 4s;
 }
 .cf li a
 {
@@ -1062,7 +1073,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     box-sizing: border-box;
     border-radius: 50%;
     position: absolute;
-    margin-top: -34px !important;
+    margin-top: -32px !important;
     padding-top: 2px;   
 }
 

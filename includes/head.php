@@ -40,4 +40,4 @@
 
         <title>Paradise</title>
     </head>
-    <body>
+    <body class="fade-in">
