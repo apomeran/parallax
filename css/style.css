@@ -1076,8 +1076,14 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     margin-top: -32px !important;
     padding-top: 2px;   
 }
+
+.fright{
+float:right;
+}
+
 .lodge-
 .lodge-icons {
+	
     left: 83%;
     z-index: 100 !important;
     position: absolute;

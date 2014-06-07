@@ -33,7 +33,7 @@
                             </div>
                             <div class="col sqs-col-8">
                                 <div class="lodge-icons">
-                                    <img src="img/fishing/fishing-day.png"></img>
+                                    <img class="fright" src="img/fishing/fishing-day.png"></img>
                                 </div>
                             </div>
                         </div>
@@ -130,7 +130,7 @@
                             </div>
                             <div class="col sqs-col-8">
                                 <div class="lodge-icons">
-                                    <img src="img/fishing/equipment.png"></img>
+                                    <img class="fright" src="img/fishing/equipment.png"></img>
                                 </div>
                             </div>
                         </div>
