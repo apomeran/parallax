@@ -4,7 +4,9 @@
         <?php include_once("includes/header.php") ?>
         <div id="slides" style="display:block;">
             <div class="slides-container">   
-
+				<li>
+                    <img src="img/slider/1.jpg"  height="1440">
+                </li>
                 <li>
                     <img src="img/slider/2.jpg"  height="1440">
 					 <div class="inner slider-title">
@@ -14,6 +16,15 @@
 							REPORT</a>
 							<hr style="width: 50%;margin-left: 25;">
 					 </div>
+                </li>
+				<li>
+                    <img src="img/slider/3.jpg"  height="1440">
+                </li>
+				<li>
+                    <img src="img/slider/4.jpg"  height="1440">
+                </li>
+				<li>
+                    <img src="img/slider/5.jpg"  height="1440">
                 </li>
    
 
