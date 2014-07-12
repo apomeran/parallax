@@ -43,6 +43,66 @@
 
 }
 
+/*
+**
+** REPORT
+**
+*/
+
+.monthly-bucket{
+	display:inline-block;
+	text-align: center;
+	width:20.5%;
+	margin-top:2%;
+	margin-bottom:2%;
+	margin-left: 2%;
+	margin-right: 2%;
+
+}
+.report-header{
+	padding-top: 80px;
+}
+.month-caption{
+	margin-top:13px;
+	font-size: 24px;
+	letter-spacing:2.25px;
+	margin-bottom:1px;
+	color: #B38845;
+}
+.month-sub-caption{
+	font-size: 20px;
+	letter-spacing:1.25px;
+	margin-bottom:20px;
+	color: #B38845;
+
+}
+.month-options{
+	font-size: 11px;
+	margin-bottom:1px;
+	letter-spacing:1px;
+	color: #939597;
+}
+.month-container a{
+color: #B38845;
+text-decoration: none;
+}
+.separator-month{
+	margin-top:1px;
+	width: 100%;
+}
+.image-center{
+margin-left: auto;
+display: block;
+margin-right: auto;
+}
+
+.month-container{
+margin-left:15%;
+margin-right:15%;
+font-family: "Playfair Display SC";
+
+}
+
 #header{
 
     background-color: rgba(255, 255, 255, 0);
