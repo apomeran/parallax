@@ -135,14 +135,17 @@
 </div>
 <div class="circles-container">
     <div class="round-circle-pic">
-        <img src="img/about-us/round-about-us.png"></img>
+        <img src="img/about-us/guide-1.png"></img>
     </div>
     <div class="round-circle-pic">
-        <img src="img/about-us/round-about-us.png"></img>
+        <img src="img/about-us/guide-2.png"></img>
     </div>
     <div class="round-circle-pic">
-        <img src="img/about-us/round-about-us.png"></img>
+        <img src="img/about-us/guide-3.png"></img>
     </div>
+    <div class="round-circle-pic">
+        <img src="img/about-us/guide-4.png"></img>
+    </div>	
 </div>	
 
 <footer id="footer">

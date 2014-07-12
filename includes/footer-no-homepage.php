@@ -7,8 +7,7 @@
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content playfair">
                                 <div class="footer-logos">
-                                    <img src="img/twitter2.png">
-                                    </img>
+
                                     <img src="img/fblogo2.png">
 
                                     </img>
