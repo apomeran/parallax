@@ -5,39 +5,26 @@
         <div id="slides" style="display:block;">
             <div class="slides-container">   
                 <li>
-                    <img src="img/1.jpg"  height="1440" alt="Home" >
+                    <img src="img/slider/1.jpg"  height="1440" alt="Home" >
 
-                    <div class="inner slider-title">
-                        AN ADVENTURER'S PARADISE<br>JUST A SHORT FLIGHT AWAY
-
-                    </div>
+     
 
                 </li>
                 <li>
-                    <img src="img/fishing-image.jpg"  height="1440">
-                    <div class="inner slider-title">
-                        AN ADVENTURER'S PARADISE <br>JUST A SHORT FLIGHT AWAY
-                    </div>
+                    <img src="img/slider/2.jpg"  height="1440">
+                
                 </li>
                 <li>
-                    <img src="img/lodging-image.jpg"  height="1440">
-                    <div class="inner slider-title">
-                        AN ADVENTURER'S PARADISE <br>JUST A SHORT FLIGHT AWAY
-                    </div>
+                    <img src="img/slider/3.jpg"  height="1440">
+                   
                 </li>
                 <li>
-                    <img src="img/reservation-img.jpg"  height="1440">
-                    <div class="inner slider-title">
-                        AN ADVENTURER'S PARADISE <br>
-                        JUST A SHORT FLIGHT AWAY
-                    </div>
+                    <img src="img/slider/4.jpg"  height="1440">
+                   
                 </li>
                 <li>
-                    <img src="img/1.jpg"  height="1440">
-                    <div class="inner slider-title">
-                        AN ADVENTURER'S PARADISE <br>
-                        JUST A SHORT FLIGHT AWAY
-                    </div>
+                    <img src="img/slider/5.jpg"  height="1440">
+                    
                 </li>
 
             </div>
@@ -143,7 +130,7 @@
                 </div>
             </section>
         </div>
-        <section id="bg-section" class="parallax" data-image="img/4.jpg"  data-height="1600">
+        <section id="bg-section" class="parallax" data-image="img/travel-image.jpg"  data-height="1600">
             <div class="centered-caption-label">
                 <img class="centered-caption-label" src="img/travel-caption.png"></img>
             </div>
