@@ -137,8 +137,10 @@
     <div class="round-circle-pic">
         <img src="img/about-us/guide-1.png"></img>
     </div>
-    <div class="round-circle-pic">
-        <img src="img/about-us/guide-2.png"></img>
+    <div class="darken round-circle-pic">
+     <a class="darken">
+		<img src="img/about-us/guide-2.png"></img>
+	</a>
     </div>
     <div class="round-circle-pic">
         <img src="img/about-us/guide-3.png"></img>
