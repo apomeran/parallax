@@ -27,9 +27,6 @@
                             <a href="./fishing.php"><span>FISHING</span></a>
                         </li>
                         <li>
-                            <a href="http://www.twitter.com/"><img src="img/twitter2.png"></img></a>
-                        </li>
-                        <li>
                             <a href="https://www.facebook.com"><img src="img/fblogo2.png"></img></a>
                         </li>
                     </ul>

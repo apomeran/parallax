@@ -9,7 +9,7 @@
         <div class="col sqs-col-12 span-12">
             <div class="sqs-block html-block sqs-block-html">
                 <div class="sqs-block-content">
-                    <h1>RESERVATION & RATES</h1>
+                    <div class="title-white-bar">RESERVATION & RATES</div>
                     <h3><span style="font-size:12px"><b>GREAT TO SEE YOU</b></span></h3>
                 </div>
             </div>
@@ -53,8 +53,8 @@
                                 <div class="col sqs-col-8">
                                     <div class="sqs-block html-block sqs-block-html"	>
                                         <div class="sqs-block-content">
-                                            <h1>2014 PARADISE LODGE RATES</h1>
-                                            <h3><span style="font-size:14px"><b>TRIPS ARE BOOKED SATURDAY - SATURDAY</b></span></h3>
+                                            <div class="title-white-bar">2014 PARADISE LODGE RATES</div>
+                                            <h3><span style="font-size:12px"><b>TRIPS ARE BOOKED SATURDAY - SATURDAY</b></span></h3>
                                         </div>
                                     </div>
                                 </div>
@@ -131,8 +131,8 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html"	>
                                     <div class="sqs-block-content">
-                                        <h1>WINTER</h1>
-                                        <h3><span style="font-size:14px"><b>NOVEMBER, DECEMBER, JANUARY AND FEBRUARY</b></span></h3>
+                                        <div class="title-white-bar">WINTER</div>
+                                        <h3><span style="font-size:12px"><b>NOVEMBER, DECEMBER, JANUARY AND FEBRUARY</b></span></h3>
                                     </div>
                                 </div>
                             </div>
@@ -166,8 +166,8 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html"	>
                                     <div class="sqs-block-content">
-                                        <h1>SPRING</h1>
-                                        <h3><span style="font-size:14px"><b>MARCH, APRIL AND MAY</b></span></h3>
+                                        <div class="title-white-bar">SPRING</div>
+                                        <h3><span style="font-size:12px"><b>MARCH, APRIL AND MAY</b></span></h3>
                                     </div>
                                 </div>
                             </div>
@@ -201,8 +201,8 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html"	>
                                     <div class="sqs-block-content">
-                                        <h1>SUMMER</h1>
-                                        <h3><span style="font-size:14px"><b>JUNE, JULY AND AUGUST</b></span></h3>
+                                        <div class="title-white-bar">SUMMER</div>
+                                        <h3><span style="font-size:12px"><b>JUNE, JULY AND AUGUST</b></span></h3>
                                     </div>
                                 </div>
                             </div>
@@ -236,8 +236,8 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html"	>
                                     <div class="sqs-block-content">
-                                        <h1>FALL</h1>
-                                        <h3><span style="font-size:14px"><b>SEPTEMBER, OCTOBER</b></span></h3>
+                                        <div class="title-white-bar">FALL</div>
+                                        <h3><span style="font-size:12px"><b>SEPTEMBER, OCTOBER</b></span></h3>
                                     </div>
                                 </div>
                             </div>

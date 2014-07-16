@@ -15,7 +15,7 @@
             <div class="col sqs-col-12 span-12">
                 <div class="sqs-block html-block sqs-block-html">
                     <div class="sqs-block-content playfair">
-                        <h1>WELCOME TO PARADISE</h1>
+                        <div class="title-white-bar">WELCOME TO PARADISE</div>
                         <h3><span style="font-size:12px"><b>GREAT TO SEE YOU</b></span></h3>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                 <div class="col sqs-col-12 span-12">
                     <div class="sqs-block html-block sqs-block-html">
                         <div class="sqs-block-content playfair">
-                            <h1>WELCOME TO PARADISE</h1>
+                            <div class="title-white-bar">WELCOME TO PARADISE</div>
                             <h3><span style="font-size:12px"><b>GREAT TO SEE YOU</b></span></h3>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                 <div class="col sqs-col-12 span-12">
                     <div class="sqs-block html-block sqs-block-html">
                         <div class="sqs-block-content playfair">
-                            <h1>WELCOME TO PARADISE</h1>
+                            <div class="title-white-bar">WELCOME TO PARADISE</div>
                             <h3><span style="font-size:12px"><b>GREAT TO SEE YOU</b></span></h3>
                         </div>
                     </div>

@@ -26,7 +26,7 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
                                     <div class="sqs-block-content playfair">
-                                        <h1>FISHING DAY</h1>
+                                        <div class="title-white-bar">FISHING DAY</div>
                                         <h3><span style="font-size:12px"><b>THE SCHEDULE</b></span></h3>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5eee01554085f21573e2">
                                     <div class="sqs-block-content playfair">
-                                        <h1>EQUIPMENT AND FLIS</h1>
+                                        <div class="title-white-bar">EQUIPMENT AND FLIS</div>
                                         <h3><span style="font-size:12px"><b>THE SCHEDULE</b></span></h3>
                                     </div>
                                 </div>

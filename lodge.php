@@ -27,8 +27,8 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html">
                                     <div class="sqs-block-content">
-                                        <h1>MAIN STRUCTURE</h1>
-                                        <h3><span style="font-size:9px"><b>GREAT VIEWS~ &nbsp; GREAT GATHERING SPACE</b></span></h3>
+                                        <div class="title-white-bar">MAIN STRUCTURE</div>
+                                        <span class="initial-title"><b>GREAT VIEWS~ &nbsp; GREAT GATHERING SPACE</b></span>
                                     </div>
                                 </div>
                             </div>
@@ -63,8 +63,8 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html">
                                     <div class="sqs-block-content">
-                                        <h1>GUEST ROOMS</h1>
-                                        <h3><span style="font-size:9px"><b>PRIVATE BATH~ &nbsp; SPACIOUS ACCOMMODATIONS</b></span></h3>
+                                        <div class="title-white-bar">GUEST ROOMS</div>
+                                        <span class="initial-title"><b>PRIVATE BATH~ &nbsp; SPACIOUS ACCOMMODATIONS</b></span>
                                     </div>
                                 </div>
                             </div>
@@ -99,8 +99,8 @@
                             <div class="col sqs-col-8">
                                 <div class="sqs-block html-block sqs-block-html">
                                     <div class="sqs-block-content">
-                                        <h1>CASITA</h1>
-                                        <h3><span style="font-size:9px"><b>IDEAL FOR COUPLES~ &nbsp; PRIVATE AND SPACIOUS</b></span></h3>
+                                        <div class="title-white-bar">CASITA</div>
+                                        <span class="initial-title"><b>IDEAL FOR COUPLES~ &nbsp; PRIVATE AND SPACIOUS</b></span>
                                     </div>
                                 </div>
                             </div>

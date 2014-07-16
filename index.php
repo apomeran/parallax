@@ -57,8 +57,8 @@
                     <div class="col sqs-col-12 span-12">
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content">
-                                <h1>WELCOME TO PARADISE</h1>
-                                <h3><span class="initial-title">GREAT TO SEE YOU,</span></h3>
+                                <div class="title-white-bar">WELCOME TO PARADISE</div>
+                                <span class="initial-title">GREAT TO SEE YOU,</span>
                             </div>
                         </div>
                         <div class="row sqs-row">
@@ -100,8 +100,8 @@
                         <div class="col sqs-col-12 span-12">
                             <div class="sqs-block html-block sqs-block-html">
                                 <div class="sqs-block-content">
-                                    <h1>BOOKING YOUR TRIP</h1>
-                                    <h3><span class="initial-title">LODGE RATES</span></h3>
+                                    <div class="title-white-bar">BOOKING YOUR TRIP</div>
+                                    <span class="initial-title">LODGE RATES</span>
                                 </div>
                             </div>
                             <div class="row sqs-row">
@@ -143,8 +143,8 @@
                         <div class="col sqs-col-12 span-12">
                             <div class="sqs-block html-block sqs-block-html">
                                 <div class="sqs-block-content">
-                                    <h1>ADVENTURES AWAIT YOU</h1>
-                                    <h3><span class="initial-title">EASY TO GET</span></h3>
+                                    <div class="title-white-bar">ADVENTURES AWAIT YOU</div>
+                                    <span class="initial-title">EASY TO GET</span>
                                 </div>
                             </div>
                             <div class="row sqs-row">
@@ -187,8 +187,8 @@
                         <div class="col sqs-col-12 span-12">
                             <div class="sqs-block html-block sqs-block-html" >
                                 <div class="sqs-block-content">
-                                    <h1>NEW LODGE BUILDING</h1>
-                                    <h3><span class="initial-title">OVER THE CARIBBEAN SEA</span></h3>
+                                    <div class="title-white-bar">NEW LODGE BUILDING</div>
+                                    <span class="initial-title">OVER THE CARIBBEAN SEA</span>
                                 </div>
                             </div>
                             <div class="row sqs-row">
@@ -230,8 +230,8 @@
                         <div class="col sqs-col-12 span-12">
                             <div class="sqs-block html-block sqs-block-html">
                                 <div class="sqs-block-content">
-                                    <h1>YOUR FISHING DAY</h1>
-                                    <h3><span class="initial-title">THE SCHEDULE</span></h3>
+                                    <div class="title-white-bar">YOUR FISHING DAY</div>
+                                    <span class="initial-title">THE SCHEDULE</span>
                                 </div>
                             </div>
                             <div class="row sqs-row">
