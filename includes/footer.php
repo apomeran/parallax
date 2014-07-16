@@ -36,8 +36,12 @@
 							<input type="submit" title="Send" id="send" value="SEND IT"></input>
 							<input type="button" title="Reset" id="reset" value="RESET"></input>
 						</div>
+				<div class="contact-footer-container">
+					<img src="img/Mail.png" class="contact-footer-mail"></img>
+					<img src="img/Telefono.png"></img>
 				</div>
-				<div class="contact-footer-logo"></div>
+				</div>
+				
 		</div>
 	</form>
 </div>

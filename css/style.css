@@ -646,19 +646,23 @@ plan.phpmedia="screen"
     margin-right:40px;
     border:1px solid;
 }
-.contact-footer-logo
+
+.contact-footer-container
 {
-    height:40px;
-    background:url('../img/contact-footer.jpg') no-repeat;
-    margin-left:312px;
+	width:100%
 }
+.contact-footer-mail
+{
+  margin-right: 10%;	
+}
+
 #reset
 {
     border:1px solid;
 }
 .actions-container input
 {
-    width: 120px;
+    width: 137px;
 	height: 45px;
 	background-color: #323232;
 	color: #fff;
@@ -1228,7 +1232,7 @@ padding: 5px !important;
 
 }
 #contact-form  input[type=text], #contact-form  input[type=email], #contact-form  textarea {
-margin-left: 50px;
+margin-left: 5%;
 margin-bottom: 80px;
 padding: 16px 10px 16px 0px;
 width: 100%;
