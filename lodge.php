@@ -106,7 +106,7 @@
                             </div>
                             <div class="col sqs-col-8">
                                 <div class="lodge-icons">
-                                    <img class="fright" src="img/lodge/guest-rooms.png"></img>
+                                    <img class="fright" src="img/lodge/casita.png"></img>
                                 </div>
                             </div>
                         </div>

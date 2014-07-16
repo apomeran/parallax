@@ -114,8 +114,7 @@ font-family: "Playfair Display SC";
 .normalize-sqs-col-14{
 	margin-left: 	15% !important;
 	width: 	80% !important;
-
-	
+	text-align: center;
 }
 
 .title-nav-wrapper {
@@ -1126,7 +1125,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     font-size: 14px;
     font-weight: normal;
     font-style: normal;
-    color:#B38845;
+    border-top: 1px solid #B38845;
     margin-left:45%
 }
 .sqs-block-content h1{
@@ -1182,6 +1181,7 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 
 .fright{
 float:right;
+margin-right: 5%;
 }
 
 .lodge-
