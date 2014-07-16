@@ -1155,7 +1155,12 @@ html .sqs-block.sqs-block-html .sqs-block-content {
     margin-top: -34px !important;
     padding-top: 2px;   
 }
-
+ .back-to-top-link a{
+     background:url('../img/top-arrow.png') no-repeat;
+     display: block;
+      z-index: 10;
+      width: 81px;
+  }
 .scroll-me {
     background:url('../img/Triangulo.png') no-repeat;
     display: block;
