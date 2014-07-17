@@ -6,9 +6,10 @@
             <div class="slides-container">   
 				<li>
                     <img src="img/slider/1.jpg"  height="1440">
+					
                 </li>
                 <li>
-                    <img src="img/slider/2.jpg"  height="1440">
+                    <img src="img/slider/2.jpg" height="1440">
 					 <div class="inner slider-title">
 							<hr style="width: 50%;margin-left: 25;">
 							<a style="text-decoration:none; color: #FFFFFF" href="./reports.php">READ OUR <br>
@@ -18,13 +19,13 @@
 					 </div>
                 </li>
 				<li>
-                    <img src="img/slider/3.jpg"  height="1440">
+                    <img src="img/slider/3.jpg" height="1440">
                 </li>
 				<li>
                     <img src="img/slider/4.jpg"  height="1440">
                 </li>
 				<li>
-                    <img src="img/slider/5.jpg"  height="1440">
+                    <img src="img/slider/5.jpg" height="1440">
                 </li>
    
 
@@ -33,14 +34,6 @@
             <nav class="slides-navigation">
                 <a href="#" class="next"><img src="img/arrow_right.svg" /></a>
                 <a href="#" class="prev"><img src="img/arrow_left.svg" /></a>
-            </nav>
-
-            <nav class="slides-pagination">
-                <a href="#1" class="">1</a>
-                <a href="#2" class="">2</a>
-                <a href="#3" class="">3</a>
-                <a href="#4" class="">4</a>
-                <a href="#5" class="">5</a>
             </nav>
 
         </div>
