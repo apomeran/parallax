@@ -289,7 +289,7 @@ margin-top: 2%;
     text-decoration:blink;
 }
 .main-nav ul li {
-    margin: 0 0 0 25px;
+    margin: 0 0 0 18px;
 }
 
 .site-title {
@@ -372,7 +372,7 @@ font-size: 28px;
     list-style: none;
     text-align: right;
     line-height: 1em;
-	margin-top:15px;
+	margin-top:16px;
 }
 ul {
     display: block;
