@@ -1217,13 +1217,18 @@ margin-top:60px;
 
 .travel-title-content hr
 {
-margin-left:50%;
+margin-left:45%;
 }
 .sqs-col-12-travel {
 margin-top: 15px;
 margin-left: 10% !important;
 width: 90% !important;
 margin-bottom: 30px;
+}
+.normalize-sqs-col-14-travel{
+margin-left: 18% !important;
+width: 80% !important;
+text-align: center;
 }
 
 #contact-form   label {

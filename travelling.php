@@ -7,11 +7,11 @@
 			  <div class="row">
 				<div class="col sqs-col-14">
 				   <div class="row">
-                    <div class="col sqs-col-14-margin normalize-sqs-col-14">
+                    <div class="col sqs-col-14-margin normalize-sqs-col-14-travel">
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content travel-title-content">									
                                 <hr></hr>
-                                <span class="text-primary" style="margin-left: 25%">
+                                <span class="text-primary">
                                    IT IS REALLY VERY EASY TO GET TO PARADISE LODGE!</span>
                                 <hr></hr>
                             </div>

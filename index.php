@@ -27,10 +27,8 @@
 				<li>
                     <img src="img/slider/5.jpg" height="1440">
                 </li>
-   
-
             </div>
-
+			
             <nav class="slides-navigation">
                 <a href="#" class="next"><img src="img/arrow_right.svg" /></a>
                 <a href="#" class="prev"><img src="img/arrow_left.svg" /></a>
