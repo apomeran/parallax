@@ -135,18 +135,16 @@
 </div>
 <div class="circles-container">
     <div class="round-circle-pic">
-        <img src="img/about-us/guide-1.png"></img>
+        <img class="circle-picture" src="img/about-us/guide-1.png"></img>
     </div>
     <div class="darken round-circle-pic">
-     <a class="darken">
-		<img src="img/about-us/guide-2.png"></img>
-	</a>
+		<img class="circle-picture" src="img/about-us/guide-2.png"></img>
     </div>
     <div class="round-circle-pic">
-        <img src="img/about-us/guide-3.png"></img>
+        <img class="circle-picture" src="img/about-us/guide-3.png"></img>
     </div>
     <div class="round-circle-pic">
-        <img src="img/about-us/guide-4.png"></img>
+        <img class="circle-picture" src="img/about-us/guide-4.png"></img>
     </div>	
 </div>	
 
