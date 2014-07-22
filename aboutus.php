@@ -148,24 +148,24 @@
 <div class="circles-container">
    <div style="float:center">
 		<div class="view view-third">
-			 <img src="img/about-us/guide-1.png" />
+			 <img class="the-pic" src="img/about-us/guide-1.png" />
 			  <div class="mask">
 				  <h2>ALEJANDRO</h2>
 			  </div>
 		</div>
 		<div class="view view-third">
-			 <img src="img/about-us/guide-2.png" />
+			 <img class="the-pic" src="img/about-us/guide-2.png" />
 			  <div class="mask">
 				  <h2>FERNANDO</h2>
 			  </div>
 		</div><div class="view view-third">
-			 <img src="img/about-us/guide-3.png" />
+			 <img class="the-pic" src="img/about-us/guide-3.png" />
 			  <div class="mask">
 				  <h2>LUIS</h2>
 			  </div>
 		</div>
 		<div class="view view-third">
-			 <img src="img/about-us/guide-4.png" />
+			 <img class="the-pic" src="img/about-us/guide-4.png" />
 			  <div class="mask">
 				  <h2>BARTOLO</h2>
 			  </div>
