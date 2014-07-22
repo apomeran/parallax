@@ -127,14 +127,24 @@
                                 </div>
                             </div>
                         </div>
+						<div class="sqs-block html-block sqs-block-html">
+                        <div class="sqs-block-content playfair">
+                            <div class="title-white-bar">GUIDE STAFF</div>
+                            <h3><span style="font-size:12px"><b></b></span></h3>
+                        </div>
+                    </div>
                     </div>
                 </div>
+
             </div>
         </div>
+
     </section>
+
 </div>
 <link rel="stylesheet" type="text/css" href="css/style_common.css" />
 <link rel="stylesheet" type="text/css" href="css/style3.css" />
+
 <div class="circles-container">
    <div style="float:center">
 		<div class="view view-third">
