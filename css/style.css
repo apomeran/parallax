@@ -129,7 +129,7 @@ font-family: "Playfair Display SC";
 .circles-container {
     margin-top: -100px;
 	padding-left:17.5%;
-
+    display: inline-block;
 	margin-bottom: 4%;
 	
 }
