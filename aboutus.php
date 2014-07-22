@@ -136,24 +136,31 @@
 <link rel="stylesheet" type="text/css" href="css/style_common.css" />
 <link rel="stylesheet" type="text/css" href="css/style3.css" />
 <div class="circles-container">
-    <div class="round-circle-pic">
-        <img class="circle-picture" src="img/about-us/guide-1.png"></img>
-    </div>
-    <div class="round-circle-pic">
-		<img class="circle-picture" src="img/about-us/guide-2.png"></img>
-    </div>
-    <div class="round-circle-pic">
-        <img class="circle-picture" src="img/about-us/guide-3.png"></img>
-    </div>
-    <div class="round-circle-pic">
-        <img class="circle-picture" src="img/about-us/guide-4.png"></img>
-    </div>	
+   <div style="float:center">
+		<div class="view view-third">
+			 <img src="img/about-us/guide-1.png" />
+			  <div class="mask">
+				  <h2>ALEJANDRO</h2>
+			  </div>
+		</div>
+		<div class="view view-third">
+			 <img src="img/about-us/guide-2.png" />
+			  <div class="mask">
+				  <h2>FERNANDO</h2>
+			  </div>
+		</div><div class="view view-third">
+			 <img src="img/about-us/guide-3.png" />
+			  <div class="mask">
+				  <h2>LUIS</h2>
+			  </div>
+		</div>
 		<div class="view view-third">
 			 <img src="img/about-us/guide-4.png" />
 			  <div class="mask">
-				  <h2>Hover Style #3</h2>
+				  <h2>BARTOLO</h2>
 			  </div>
 		</div>
+	</div>	
 </div>	
 
 
