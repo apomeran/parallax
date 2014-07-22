@@ -144,7 +144,7 @@
 </div>
 <link rel="stylesheet" type="text/css" href="css/style_common.css" />
 <link rel="stylesheet" type="text/css" href="css/style3.css" />
-
+<br><br>
 <div class="circles-container">
    <div style="float:center">
 		<div class="view view-third">
@@ -175,12 +175,6 @@
 
 
 <footer id="footer">
-    <div class="back-to-top-link" onClick="scroll('#footer', '#top-page')">
 
-        <a href="#top">
-            <span class="arrow">
-            </span>
-        </a>
-    </div>
     <?php include_once("includes/footer-no-homepage.php") ?>
 </footer>
