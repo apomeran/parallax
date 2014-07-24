@@ -11,11 +11,11 @@
                 <li>
                     <img src="img/slider/2.jpg" height="1440">
 					 <div class="inner slider-title">
-							<hr style="width: 50%;margin-left: 25;">
+							<hr style="width: 55%; background-color: white; color: #FFFFFF; height: 1px; margin-left: 40;">
 							<a style="text-decoration:none; color: #FFFFFF" href="./reports.php">READ OUR <br>
 							WEEKLY <br>
 							REPORT</a>
-							<hr style="width: 50%;margin-left: 25;">
+							<hr style="width: 55%; background-color: white; color: #FFFFFF; height: 1px; margin-left: 40;">
 					 </div>
                 </li>
 				<li>
@@ -37,12 +37,7 @@
         </div>
 
         <section id="separator-section">
-            <div class="cloud left-cloud">
-                <img src="img/left-cloud2.png"></img>
-            </div>
-            <div class="cloud right-cloud">
-                <img src="img/right-cloud2.png"></img>
-            </div>
+            
             <div class="sqs-layout sqs-grid-12 columns-12">
                 <div class="row sqs-row">
                     <div class="col sqs-col-12 span-12">
@@ -64,7 +59,7 @@
                                 <div class="sqs-block html-block sqs-block-html">
                                     <div class="sqs-block-content">
                                         <span> hooking up with the most elusive of flats fish; the permit. Paradise Lodge is one of The Fly Shop's signature destinations. This is because it epitomizes everything we want to see in a lodge in this area. It wants for nothing.</span>
-                                        <p><span href="#" class="keep-reading"><b>Keep Reading ...</b></span></p>
+                                        <p><span href="#" class="keep-reading"><b><a style="text-decoration:none;color: #B38845;" href="">Keep Reading ...</a></b></span></p>
                                     </div>
                                 </div>
                             </div>
@@ -107,7 +102,7 @@
                                     <div class="sqs-block html-block sqs-block-html">
                                         <div class="sqs-block-content">
                                             <span>We have instantaneous access to the Paradise guest calendar, so we can reserve your dates as soon as you are ready.</span>
-                                            <p><span href="#" class="keep-reading"><b>Keep Reading ...</b></span></p>
+                                            <p><span href="#" class="keep-reading"><b><a style="text-decoration:none;color: #B38845;" href="./reservation.php">Keep Reading ...</a></b></span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -150,7 +145,7 @@
                                     <div class="sqs-block html-block sqs-block-html">
                                         <div class="sqs-block-content">
                                             <span>Unless you plan to spend a few nights in Cancun before you go to Paradise Lodge, you need to arrive in Cancun before 2:00PM for a transfer on the same day.</span>
-                                            <p><span href="#" class="keep-reading"><b>Keep Reading ...</b></span></p>
+                                            <p><span href="#" class="keep-reading"><b><a style="text-decoration:none;color: #B38845;" href="./travelling.php">Keep Reading ...</a></b></span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -194,7 +189,7 @@
                                     <div class="sqs-block html-block sqs-block-html">
                                         <div class="sqs-block-content">
                                             <span>The main structure is a two-storey stucco building facing east and placed a short distance from the shore. One can observe tropical sunrises from its picture windows looking</span>
-                                            <p><span href="#" class="keep-reading"><b>Keep Reading ...</b></span></p>
+                                            <p><span href="#" class="keep-reading"><b><a style="text-decoration:none;color: #B38845;" href="./lodge.php">Keep Reading ...</a></b></span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -238,7 +233,7 @@
                                     <div class="sqs-block html-block sqs-block-html" >
                                         <div class="sqs-block-content">
                                             <span>Every night of your stay, you will discuss the following day's fishing along with the options available to you. The lodge capacity is very small (6 anglers) so it can deliver individual attention and provide you with the best time ever.</span>
-                                            <p><span href="#" class="keep-reading"><b>Keep Reading ...</b></span></p>
+                                            <p><span href="#" class="keep-reading"><b><a style="text-decoration:none;color: #B38845;" href="./fishing.php">Keep Reading ...</a></b></span></p>
                                         </div>
                                     </div>
                                 </div>

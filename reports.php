@@ -1,7 +1,7 @@
 <?php include_once("includes/head.php") ?>
 <div>
 	<div id="top-page" style="height: 288px; background-color: #B38845; width: 100% !important;">
-		<?php include_once("includes/header.php") ?>
+		<?php include_once("includes/header-only-logo.php") ?>
 				<img class="image-center report-header" src="img/report/report.png"></img>
 	</div>
 

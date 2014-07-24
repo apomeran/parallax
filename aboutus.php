@@ -4,12 +4,7 @@
     <img style="width: 100% !important; "src="img/about-us/top-img.png"></img>
 </div>
 <section id="separator-section">
-    <div class="cloud left-cloud">
-        <img src="img/left-cloud2.png"></img>
-    </div>
-    <div class="cloud right-cloud">
-        <img src="img/right-cloud2.png"></img>
-    </div>
+    
     <div class="sqs-layout sqs-grid-12 columns-12">
         <div class="row sqs-row">
             <div class="col sqs-col-12 span-12">
@@ -50,12 +45,7 @@
     </div> 
     <section id="separator-section">
 
-        <div class="cloud left-cloud">
-            <img src="img/left-cloud2.png"></img>
-        </div>
-        <div class="cloud right-cloud">
-            <img src="img/right-cloud2.png"></img>
-        </div>
+        
         <div class="sqs-layout sqs-grid-12 columns-12">
             <div class="row sqs-row">
                 <div class="col sqs-col-12 span-12">
@@ -88,7 +78,7 @@
     </section>
 </div>	
 <section>
-    <img style="width: 100% !important; "src="img/about-us/top-1-aboutus.jpg"></img>
+    <img style="width: 100% !important; "src="img/about-us/top-2-aboutus.jpg"></img>
 </section>
 <div>
     <div class="scroll-me" onClick="scroll('#footer', '#top-page')">
@@ -96,12 +86,7 @@
         </span>
     </div> 
     <section id="separator-section">
-        <div class="cloud left-cloud">
-            <img src="img/left-cloud2.png"></img>
-        </div>
-        <div class="cloud right-cloud">
-            <img src="img/right-cloud2.png"></img>
-        </div>
+      
         <div class="sqs-layout">
             <div class="row sqs-row">
                 <div class="col sqs-col-12 span-12">
