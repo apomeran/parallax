@@ -124,15 +124,23 @@ font-family: "Playfair Display SC";
     vertical-align: middle;	
     box-sizing: border-box;
 }
-
+.my-hr{
+margin-top: 10px !important;
+margin-bottom: 5px !important;
+color: #B38845;
+}
 .circles-container {
 	font-family: "Playfair Display SC" !important;
 	margin-top: -100px;
 	width: 825px;
-	margin-left: 25%;
-    display: inline-block;
-	margin-bottom: 4%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-bottom: 26%
 	
+}
+.caption-circles{
+color: #B38845;
 }
 
 a.darken {
