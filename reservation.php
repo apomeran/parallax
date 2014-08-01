@@ -3,6 +3,7 @@
     <?php include_once("includes/header.php") ?>
     <img style="width: 100% !important; "src="img/reservations/top-img.jpg"></img>
 </div>
+<section id="separator-section">
 
 <div class="sqs-layout sqs-grid-12 columns-12">
     <div class="row sqs-row">
@@ -33,6 +34,7 @@
         </div>
     </div>
 </div>
+</section>
 	<section id="bg-section" class="parallax" data-image="img/reservations/r.jpg" data-height="1600">
 		<div class="centered-caption-label">
 		<div>	
@@ -43,7 +45,7 @@
         <span class="arrow">
         </span>
     </div> 
-    <section id="separator-section">
+    <section id="separator-section" style="margin-left: 4%;padding-top: 8%;">
         <div class="sqs-layout">
             <div class="row sqs-row">
                 <div class="col sqs-col-14">
