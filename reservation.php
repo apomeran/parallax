@@ -177,15 +177,22 @@
                             <img class="fix-season-img"  src="img/reservations/spring-2.png"></img>
                         </div>
                         <div class="row sqs-row">
-                            <div class="col sqs-col-8">
-                                <div class="sqs-block html-block sqs-block-html">
-                                    <div class="sqs-block-content" >
-                                        <span>The lodge is closed during this season.</span>
-                                    </div>
-                                </div>
+                    <div class="col sqs-col-6 span-6">
+                        <div class="sqs-block html-block sqs-block-html">
+                            <div class="sqs-block-content">
+                                <span>This is one of safest and most productive times at Paradise especially as it reaches towards April and May. The cold fronts have all but disappeared and if they do show up, they are short lived and may not affect the fishing that much. The warm south-east trade winds are the norm with sunny, clear-sky days. Perfect for sight fishing. All of the flats fishes are fat and sassy by now. The lakes should be clear with </span>
                             </div>
-
                         </div>
+                    </div>
+                    <div class="col sqs-col-6 span-6">
+                        <div class="sqs-block html-block sqs-block-html">
+                            <div class="sqs-block-content">
+                                <span>excellent fishing for snook and tarpon. There could even be some migratory tarpon moving into the bays and along the Oceanside between the shore and the reef. The permit are happy in the bays and are available in schools, singles and doubles.There will be windy days. In fact, plan on all days being windy. If this is your first time to the flats, </span>
+                                <p><span href="#" style="font-size:small"><b>Keep Reading ...</b></span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
                     </div>
@@ -211,16 +218,23 @@
                             </div>
                             <img class="fix-season-img"  src="img/reservations/summer-3.png"></img>
                         </div>
-                        <div class="row sqs-row">
-                            <div class="col sqs-col-8">
-                                <div class="sqs-block html-block sqs-block-html">
-                                    <div class="sqs-block-content" >
-                                        <span>The lodge is closed during this season.</span>
-                                    </div>
-                                </div>
+                              <div class="row sqs-row">
+                    <div class="col sqs-col-6 span-6">
+                        <div class="sqs-block html-block sqs-block-html">
+                            <div class="sqs-block-content">
+                                <span>This is one of safest and most productive times at Paradise especially as it reaches towards April and May. The cold fronts have all but disappeared and if they do show up, they are short lived and may not affect the fishing that much. The warm south-east trade winds are the norm with sunny, clear-sky days. Perfect for sight fishing. All of the flats fishes are fat and sassy by now. The lakes should be clear with </span>
                             </div>
-
                         </div>
+                    </div>
+                    <div class="col sqs-col-6 span-6">
+                        <div class="sqs-block html-block sqs-block-html">
+                            <div class="sqs-block-content">
+                                <span>excellent fishing for snook and tarpon. There could even be some migratory tarpon moving into the bays and along the Oceanside between the shore and the reef. The permit are happy in the bays and are available in schools, singles and doubles.There will be windy days. In fact, plan on all days being windy. If this is your first time to the flats, </span>
+                                <p><span href="#" style="font-size:small"><b>Keep Reading ...</b></span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
                     </div>
@@ -246,16 +260,23 @@
                             </div>
                             <img class="fix-season-img"  src="img/reservations/fall-4.png"></img>
                         </div>
-                        <div class="row sqs-row">
-                            <div class="col sqs-col-8">
-                                <div class="sqs-block html-block sqs-block-html">
-                                    <div class="sqs-block-content" >
-                                        <span>The lodge is closed during this season.</span>
-                                    </div>
-                                </div>
+                             <div class="row sqs-row">
+                    <div class="col sqs-col-6 span-6">
+                        <div class="sqs-block html-block sqs-block-html">
+                            <div class="sqs-block-content">
+                                <span>This is one of safest and most productive times at Paradise especially as it reaches towards April and May. The cold fronts have all but disappeared and if they do show up, they are short lived and may not affect the fishing that much. The warm south-east trade winds are the norm with sunny, clear-sky days. Perfect for sight fishing. All of the flats fishes are fat and sassy by now. The lakes should be clear with </span>
                             </div>
-
                         </div>
+                    </div>
+                    <div class="col sqs-col-6 span-6">
+                        <div class="sqs-block html-block sqs-block-html">
+                            <div class="sqs-block-content">
+                                <span>excellent fishing for snook and tarpon. There could even be some migratory tarpon moving into the bays and along the Oceanside between the shore and the reef. The permit are happy in the bays and are available in schools, singles and doubles.There will be windy days. In fact, plan on all days being windy. If this is your first time to the flats, </span>
+                                <p><span href="#" style="font-size:small"><b>Keep Reading ...</b></span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
                     </div>
