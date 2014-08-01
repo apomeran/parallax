@@ -175,18 +175,33 @@ a.darken:hover img {
 .circle {
     margin-right:5%;
 	border-radius: 50%;
-	width:95px;
-	height:95px;
-	font-size:15px;
+	width:150px;
+	height:150px;
+	font-size:12px;
+	font-family:Playfair;
 	color:#fff;
-	text-align:center;
 	background:#B38745;
 	display: inline-block;
 }
 
 .inner-circle-text{
+	text-align:center;
+	margin-top: 40px !important;
+}
 
-	padding-top:20px;
+.addon{
+	font-size:11px !important;
+}
+
+.my-hr-reservation{
+width: 70%;
+margin-left: 15% !important;
+margin-bottom:8px !important;
+margin-top: 15px !important;
+}
+
+.reservation-price{
+font-size: 24px;
 }
 
 .inline-circles{
@@ -205,14 +220,17 @@ width: 50%;
 	position: absolute;
 	left: 50%;
 	margin-top: -73px !important;
-	margin-left: 7%;
+	margin-left: 12%;
 }
 .separator-hr{
-	width: 80% !important;
-	margin-left:10%;
+	width: 79.5% !important;
+	margin-left: 5.5%;
 	border: solid 1px #B38745;
 
 	
+}
+.addon2{
+margin-left:73px !important;
 }
 .fix-season-img{
 position: absolute;

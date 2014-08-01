@@ -81,26 +81,27 @@
                                             </div>
                                             <div class="inline-circles">
 
-                                                <div class="circle">										
-                                                    <div class="inner-circle-text">   
-                                                        SINGLE OCCUPANCY PRIVATE ROOM/BOAT
-                                                        <hr>
-                                                        $3,595
-                                                    </div>  
-                                                </div>  
+                                             
                                                 <div class="circle">
                                                     <div class="inner-circle-text">   
-                                                        DOUBLE OCCUPANCY &nbsp;SHARING BOAT&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
-                                                        <hr>
-                                                        $2,595
+                                                        DOUBLE OCCUPANCY SHARING BOAT
+                                                        <hr class="my-hr-reservation">
+                                                        <div class="reservation-price">$2,595</div>
                                                     </div>
                                                 </div> 
+												   <div class="circle">										
+                                                    <div class="inner-circle-text">   
+                                                        SINGLE OCCUPANCY PRIVATE ROOM/BOAT
+                                                        <hr class="my-hr-reservation">
+                                                        <div class="reservation-price">$3,595</div>
+                                                    </div>  
+                                                </div>  
                                                 <div class="circle">										
 
-                                                    <div class="inner-circle-text">   
+                                                    <div class="inner-circle-text addon">   
                                                         NON-ANGLER SHARING ROOM W/ SINGLE ANGLER
-                                                        <hr>
-                                                        $1,395
+                                                        <hr class="my-hr-reservation">
+                                                        <div class="reservation-price">$1,395</div>
                                                     </div>
 
                                                 </div>
@@ -123,7 +124,7 @@
 
 <section id="separator-section">
     <div class="sqs-layout">
-        <div class="row sqs-row">
+        <div class="row sqs-row addon2">
             <div class="col sqs-col-14">
                 <div class="row">
                     <div class="col sqs-col-16 lodge-sect">
@@ -132,7 +133,7 @@
                                 <div class="sqs-block html-block sqs-block-html"	>
                                     <div class="sqs-block-content">
                                         <div class="title-white-bar">WINTER</div>
-                                        <h3><span style="font-size:12px"><b>NOVEMBER, DECEMBER, JANUARY AND FEBRUARY</b></span></h3>
+                                        <h3><span style="font-size:15px"><b>NOVEMBER, DECEMBER, JANUARY AND FEBRUARY</b></span></h3>
                                     </div>
                                 </div>
                             </div>
@@ -158,7 +159,7 @@
         </div>
     </div>
     <div class="sqs-layout">
-        <div class="row sqs-row">
+        <div class="row sqs-row addon2">
             <div class="col sqs-col-14">
                 <div class="row">
                     <div class="col sqs-col-16 lodge-sect">
@@ -167,7 +168,7 @@
                                 <div class="sqs-block html-block sqs-block-html"	>
                                     <div class="sqs-block-content">
                                         <div class="title-white-bar">SPRING</div>
-                                        <h3><span style="font-size:12px"><b>MARCH, APRIL AND MAY</b></span></h3>
+                                        <h3><span style="font-size:15px"><b>MARCH, APRIL AND MAY</b></span></h3>
                                     </div>
                                 </div>
                             </div>
@@ -193,7 +194,7 @@
         </div>
     </div>
     <div class="sqs-layout">
-        <div class="row sqs-row">
+        <div class="row sqs-row addon2">
             <div class="col sqs-col-14">
                 <div class="row">
                     <div class="col sqs-col-16 lodge-sect">
@@ -202,7 +203,7 @@
                                 <div class="sqs-block html-block sqs-block-html"	>
                                     <div class="sqs-block-content">
                                         <div class="title-white-bar">SUMMER</div>
-                                        <h3><span style="font-size:12px"><b>JUNE, JULY AND AUGUST</b></span></h3>
+                                        <h3><span style="font-size:15px"><b>JUNE, JULY AND AUGUST</b></span></h3>
                                     </div>
                                 </div>
                             </div>
@@ -228,7 +229,7 @@
         </div>
     </div>
     <div class="sqs-layout">
-        <div class="row sqs-row">
+        <div class="row sqs-row addon2">
             <div class="col sqs-col-14">
                 <div class="row">
                     <div class="col sqs-col-16 lodge-sect">
@@ -237,7 +238,7 @@
                                 <div class="sqs-block html-block sqs-block-html"	>
                                     <div class="sqs-block-content">
                                         <div class="title-white-bar">FALL</div>
-                                        <h3><span style="font-size:12px"><b>SEPTEMBER, OCTOBER</b></span></h3>
+                                        <h3><span style="font-size:15px"><b>SEPTEMBER, OCTOBER</b></span></h3>
                                     </div>
                                 </div>
                             </div>
