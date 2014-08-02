@@ -180,15 +180,16 @@
                     <div class="col sqs-col-6 span-6">
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content">
-                                <span>This is one of safest and most productive times at Paradise especially as it reaches towards April and May. The cold fronts have all but disappeared and if they do show up, they are short lived and may not affect the fishing that much. The warm south-east trade winds are the norm with sunny, clear-sky days. Perfect for sight fishing. All of the flats fishes are fat and sassy by now. The lakes should be clear with </span>
+                                <span>This is one of safest and most productive times at Paradise especially as it reaches towards April and May. The cold fronts have all but disappeared and if they do show up, they are short lived and may not affect the fishing that much. The warm south-east trade winds are the norm with sunny, clear-sky days. Perfect for sight fishing. All of the flats fishes are fat and sassy by now. The lakes should be clear with excellent fishing for snook and tarpon. There could even be some migratory tarpon moving into the bays and along the Oceanside between the shore and the reef. The permit are happy in the bays and are available in schools, singles and doubles.There will be windy days. In fact, plan on all days being windy.  </span>
                             </div>
                         </div>
                     </div>
                     <div class="col sqs-col-6 span-6">
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content">
-                                <span>excellent fishing for snook and tarpon. There could even be some migratory tarpon moving into the bays and along the Oceanside between the shore and the reef. The permit are happy in the bays and are available in schools, singles and doubles.There will be windy days. In fact, plan on all days being windy. If this is your first time to the flats, </span>
-                                <p><span href="#" style="font-size:small"><b>Keep Reading ...</b></span></p>
+                                <span>If this is your first time to the flats, you would be doing a great service to yourself to take a casting lesion from an instructor who has saltwater experience. The wind affects casting differently on the flats that in does while fishing trout on a river. If you don't know the double haul, this would be a good excuse to learn it. You certainly don't have to know how to cast the length of a football field to catch fish on the flats, but having some control over your cast when the wind is blowing 20 – 30 mph or more will improve your hookup rate.
+										Since spring is probably the best all around time to visit Paradise, it is also the most popular time at the lodge. So, early reservations are always wise if this is the season you want to fish.
+								</span>
                             </div>
                         </div>
                     </div>
@@ -222,15 +223,17 @@
                     <div class="col sqs-col-6 span-6">
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content">
-                                <span>This is one of safest and most productive times at Paradise especially as it reaches towards April and May. The cold fronts have all but disappeared and if they do show up, they are short lived and may not affect the fishing that much. The warm south-east trade winds are the norm with sunny, clear-sky days. Perfect for sight fishing. All of the flats fishes are fat and sassy by now. The lakes should be clear with </span>
+                                <span>This season probably offers the best fishing of all year, but it is more difficult making the personal argument to go to Mexico during the summertime. The bonefish and permit are roaming the flats with far fewer anglers casting to them so tend to be less spooky during this time. The lakes are clear and the tarpon and snook are at their peak.
+The trade winds are really settling down, now and while still windy, it isn't as volatile as during the spring. There can be some summer storms with violent winds, rain and clouds, but unless the storm has a name attached to it (hurricane), it usually lasts only a short time; even just a few hours. Remember- it is impossible to out guess the weather, but history can tell us when the odds are with us.  </span>
                             </div>
                         </div>
                     </div>
                     <div class="col sqs-col-6 span-6">
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content">
-                                <span>excellent fishing for snook and tarpon. There could even be some migratory tarpon moving into the bays and along the Oceanside between the shore and the reef. The permit are happy in the bays and are available in schools, singles and doubles.There will be windy days. In fact, plan on all days being windy. If this is your first time to the flats, </span>
-                                <p><span href="#" style="font-size:small"><b>Keep Reading ...</b></span></p>
+                                <span>Hurricane season begins June 1 and continues through November. The odds are that anglers fishing from Paradise are NOT going to be threatened by a hurricane, but it IS possible. You have to decide if this falls within your comfort zone - being in hurricane country during the season to enjoy some of the best fishing of the year.
+July begins the discount period at Paradise (see rates) and continues through December 16, 2009. It is not lower priced because it is poor fishing, but to entice anglers to discover some very good fishing. It can be hot, but the lodge and rooms are fully air conditioned and there is generally a breeze blowing out on the water to help keep you cool.
+ </span>
                             </div>
                         </div>
                     </div>
@@ -264,15 +267,14 @@
                     <div class="col sqs-col-6 span-6">
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content">
-                                <span>This is one of safest and most productive times at Paradise especially as it reaches towards April and May. The cold fronts have all but disappeared and if they do show up, they are short lived and may not affect the fishing that much. The warm south-east trade winds are the norm with sunny, clear-sky days. Perfect for sight fishing. All of the flats fishes are fat and sassy by now. The lakes should be clear with </span>
+                                <span>This can be the most pleasant time of the year to fish. The weather is usually very comfortable, especially in the first 6 to 8 weeks of this season. Some time in the later part of it, mid to late October, the weather will start to change and cool off some. The lakes and the bays are a joy to fish. There have been relatively few anglers on the waters  </span>
                             </div>
                         </div>
                     </div>
                     <div class="col sqs-col-6 span-6">
                         <div class="sqs-block html-block sqs-block-html">
                             <div class="sqs-block-content">
-                                <span>excellent fishing for snook and tarpon. There could even be some migratory tarpon moving into the bays and along the Oceanside between the shore and the reef. The permit are happy in the bays and are available in schools, singles and doubles.There will be windy days. In fact, plan on all days being windy. If this is your first time to the flats, </span>
-                                <p><span href="#" style="font-size:small"><b>Keep Reading ...</b></span></p>
+                                <span>and the fish are not feeling threatened. The weather is the real key to this season. The fish are willing and if the weather is good, the fishing is good. That's the nuts and bolts of it. If you have the opportunity to fish Paradise during this time, the price is right and the fish are ready. </span>
                             </div>
                         </div>
                     </div>
