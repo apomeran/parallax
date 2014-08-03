@@ -126,19 +126,19 @@ font-family: "Playfair Display SC";
 }
 .my-hr{
 margin-top: 10px !important;
-margin-bottom: 5px !important;
-color: #B38845;
+margin-bottom: 10px !important;
+border-top: 1px solid #B38845;
 }
 .circles-container {
-	font-family: "Playfair Display SC" !important;
-	margin-top: -100px;
-	width: 825px;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-	margin-bottom: 26%
-	
+font-family: "Playfair Display SC" !important;
+margin-top: -100px;
+width: 100%;
+margin-left: 12%;
+margin-right: auto;
+display: block;
+margin-bottom: 26%;
 }
+
 .caption-circles{
 color: #B38845;
 }
@@ -225,9 +225,7 @@ width: 50%;
 .separator-hr{
 	width: 79.5% !important;
 	margin-left: 5.5%;
-	border: solid 1px #B38745;
-
-	
+	border-top: 1px solid #B38845;
 }
 .addon2{
 margin-left:73px !important;
@@ -1228,14 +1226,13 @@ margin-right: 5%;
     width:95%;
     margin-bottom: 40px;
     margin-left:7%;
-	background-color: #B38845;
-	color: #B38845;
-	height: 1.5px;
+	border-top: 1px solid #B38845;
 }
 .section-separator-fishing
 {
     width:95%;
     margin-left:7%;
+	border-top: 1px solid #B38845;
 }
 .lodge-sect{
     margin-bottom:30px;

@@ -11,11 +11,11 @@
                 <li>
                     <img src="img/slider/2.jpg" height="1440">
 					 <div class="inner slider-title">
-							<hr style="width: 55%; background-color: white; color: #FFFFFF; height: 1px; margin-left: 40;">
+							<hr style="width: 55%; border-top: 1px solid #FFFFFF; margin-left: 40;">
 							<a style="text-decoration:none; color: #FFFFFF" href="./reports.php">READ OUR <br>
 							WEEKLY <br>
 							REPORT</a>
-							<hr style="width: 55%; background-color: white; color: #FFFFFF; height: 1px; margin-left: 40;">
+							<hr style="width: 55%; border-top: 1px solid #FFFFFF; margin-left: 40;">
 					 </div>
                 </li>
 				<li>
