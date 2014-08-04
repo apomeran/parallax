@@ -119,43 +119,54 @@
 <link rel="stylesheet" type="text/css" href="css/style3.css" />
 
 <div class="circles-container">
-    <div style="float:center">
-        <div class="view view-third caption-circles">
-            <img class="the-pic" src="img/about-us/guide-1.png" />
+<div class="sqs-layout">
+  <div class="row sqs-row">
+	<div class="col sqs-col-12 span-12">
+		<div class="sqs-block html-block sqs-block-html">
+			<div class="sqs-block-content">
+			<div class="view view-third caption-circles">
+				<img class="the-pic" src="img/about-us/guide-1.png" />
+				<div>
+				<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				ALEJANDRO
+				<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				</div>
+			</div>
+			<div class="view view-third caption-circles">
+				<img class="the-pic" src="img/about-us/guide-2.png" />
 			<div>
-			<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
-			ALEJANDRO
-			<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				FERNANDO
+				<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				</div>
+			</div><div class="view view-third caption-circles">
+				<img class="the-pic" src="img/about-us/guide-3.png" />
+				<div>
+				<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				LUIS
+				<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				</div>
 			</div>
-        </div>
-        <div class="view view-third caption-circles">
-            <img class="the-pic" src="img/about-us/guide-2.png" />
-		<div>
-			<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
-			FERNANDO
-			<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+			<div class="view view-third caption-circles">
+				<img class="the-pic" src="img/about-us/guide-4.png" />
+				<div>
+				<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				BARTOLO
+				<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
+				</div>
 			</div>
-        </div><div class="view view-third caption-circles">
-            <img class="the-pic" src="img/about-us/guide-3.png" />
-			<div>
-			<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
-			LUIS
-			<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
-			</div>
-        </div>
-        <div class="view view-third caption-circles">
-            <img class="the-pic" src="img/about-us/guide-4.png" />
-			<div>
-			<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
-			BARTOLO
-			<hr class="my-hr" style="margin-left: auto;margin-right: auto;">
-			</div>
-        </div>
-    </div>	
+			 </div>
+		</div>
+	</div>
+   </div>
+    </div>    
 </div>	
-
-
-<footer id="footer">
-
+     <footer id="footer">
+            <div class="back-to-top-link" onClick="scroll('#footer', '#slides')">
+                <a href="#top">
+                    <span class="arrow">
+                    </span>
+                </a>
+            </div> 
     <?php include_once("includes/footer-no-homepage.php") ?>
-</footer>
+        </footer>
