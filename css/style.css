@@ -970,7 +970,7 @@ plan.phpmedia="screen"
 }
 .sqs-col-12 {
     margin-top:40px;	
-    margin-left: 10% !important;
+    margin-left: 5% !important;
     width: 90% !important;
     margin-bottom:30px;	
 }
@@ -1276,12 +1276,12 @@ margin-left:45%;
 }
 .sqs-col-12-travel {
 margin-top: 15px;
-margin-left: 10% !important;
+margin-left: 5% !important;
 width: 90% !important;
 margin-bottom: 30px;
 }
 .normalize-sqs-col-14-travel{
-margin-left: 18% !important;
+margin-left: 15% !important;
 width: 80% !important;
 text-align: center;
 }
