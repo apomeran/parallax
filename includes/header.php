@@ -7,7 +7,7 @@
         <div id="desktopNav">
             <nav class="main-nav">
                 <div class="nav-wrapper">
-                    <ul class="cf">
+                    <ul class="cf" style="margin-top:8px;">
                         <li class="active-link folder">        
                             <a href="./index.php"><span>HOME</span></a>
                         </li>
