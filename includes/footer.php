@@ -18,23 +18,23 @@
     </form>
 </div>-->
 <div class="contact-us">
-	<form name="contact-form" id="contact-form" action="" method="post">
+	<form name="contact-form" id="contact-form" action="mail.php" method="post">
 		<div class="contact-form-container">
 					<hr></hr>
 					<span>CONTACT</span>
 					<hr></hr>
 				<div class="bp-basics">
 						<label for="">Full Name</label>
-						<input name="name"  type="text" placeholder="Full Name" />
+						<input id="contact_name" name="name"  type="text" placeholder="Full Name" />
 						<label for="">Email</label>
-						<input name="email"  type="email" placeholder="Email" autocomplete="off"  />
+						<input id="contact_email" name="email"  type="email" placeholder="Email" autocomplete="off"  />
 						<label for="">Telephone</label>
-						<input name="phone" class="phoneInput" type="text" placeholder="Telephone" autocomplete="off"  />
+						<input id="contact_phone" name="phone" class="phoneInput" type="text" placeholder="Telephone" autocomplete="off"  />
 						<label for="">Message</label>
-						<textarea name="projectType" type="text" placeholder="Message" rows="1" cols="auto"></textarea>
+						<textarea id="contact_message" name="projectType" type="text" placeholder="Message" rows="1" cols="auto"></textarea>
 						<div class="actions-container">
 							<input type="submit" title="Send" id="send" value="SEND IT"></input>
-							<input type="button" title="Reset" id="reset" value="RESET"></input>
+							<input type="button" title="Reset" id="reset" onclick="clearInputs()" value="RESET"></input>
 						</div>
 				<div class="contact-footer-container">
 					<img src="img/Mail.png" class="contact-footer-mail"></img>
@@ -47,3 +47,11 @@
 </div>
 </body>
 </html>
+<script>
+function clearInputs(){
+ document.getElementById('contact_name').value = "";
+ document.getElementById('contact_email').value = "";
+ document.getElementById('contact_message').value = "";
+ document.getElementById('contact_phone').value = "";
+}
+</script>
