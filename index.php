@@ -28,6 +28,7 @@
                     <img src="img/slider/5.jpg" height="1440">
                 </li>
             </div>
+			<div class="scroll-arrow"><div class="scroll-down"></div></div>
 			
             <nav class="slides-navigation">
                 <a href="#" class="next"><img src="img/arrow_right.svg" /></a>
