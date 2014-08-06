@@ -39,7 +39,7 @@ $mail->setFrom($_POST['email'], $_POST['name'] );
 // $mail->addReplyTo('replyto@example.com', 'First Last');
 //Set who the message is to be sent to
 // $mail->addAddress('travel@theflyshop.com', 'Travel - Fly Shop');
-$mail->addAddress('alan.pome@gmail.com', 'Travel - Fly Shop');
+$mail->addAddress('travel@theflyshop.com', 'Travel - Fly Shop');
 //Set the subject line
 $mail->Subject = 'Contact - Paradise';
 //Read an HTML message body from an external file, convert referenced images to embedded,
